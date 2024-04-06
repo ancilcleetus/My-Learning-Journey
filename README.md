@@ -4,7 +4,7 @@
 ## Status:
 
 1. Python                       ![10%](https://progress-bar.dev/10)
-    1. [Python Fundamentals](/Python/Python_01_Fundamentals.ipynb)
+    1. [Python Fundamentals](/Python/Python_01_Fundamentals.ipynb)              ![10%](https://progress-bar.dev/10)
 2. Linear Algebra               ![10%](https://progress-bar.dev/10)
 3. Probability & Statistics     ![10%](https://progress-bar.dev/10)
 4. Calculus                     ![10%](https://progress-bar.dev/10)
