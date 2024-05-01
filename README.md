@@ -64,7 +64,7 @@
             - Microsoft Azure  ![10%](https://progress-bar.dev/10)
     3. MLOps Projects           ![10%](https://progress-bar.dev/10)
 6. Deep Learning                ![10%](https://progress-bar.dev/10)
-    1. [Intro to Deep Learning](/Deep-Learning/DL_01_Intro.ipynb)               ![10%](https://progress-bar.dev/10)
+    1. [Intro to Deep Learning](/Deep-Learning/DL_01_Intro.ipynb)               ![100%](https://progress-bar.dev/100)
     2. [Perceptrons](/Deep-Learning/DL_02_Perceptrons.ipynb)                    ![10%](https://progress-bar.dev/10)
     1. ANN                      ![10%](https://progress-bar.dev/10)
     2. CNN                      ![10%](https://progress-bar.dev/10)
