@@ -68,6 +68,7 @@
     2. [Perceptrons](/Deep-Learning/DL_02_Perceptrons.ipynb)                            ![100%](https://progress-bar.dev/100)
     3. [Multi-Layer Perceptrons](/Deep-Learning/DL_03_Multi_Layer_Perceptrons.ipynb)    ![100%](https://progress-bar.dev/100)
     4. [Forward Propagation](/Deep-Learning/DL_04_Forward_Propagation.ipynb)            ![100%](https://progress-bar.dev/100)
+    5. [Customer Churn Prediction using ANN](/Deep-Learning/DL_05_Customer_Churn_Prediction_using_ANN.ipynb)        ![10%](https://progress-bar.dev/10)
     1. ANN                      ![10%](https://progress-bar.dev/10)
     2. CNN                      ![10%](https://progress-bar.dev/10)
     3. RNN                      ![10%](https://progress-bar.dev/10)
