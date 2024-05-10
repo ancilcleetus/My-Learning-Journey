@@ -1,10 +1,15 @@
 # ![Deep Learning](data/animations/DL-01.gif)
 
+> **`Note`**: Use **nbviewer** (recommended) in order to view the jupyter notebooks. You can see all the codes and the outputs in nbviwer without running the whole code again.
+
 <details>
 <summary> 1. Deep Learning Foundations </summary>
 <ul>
-    <li>This dropdown contains</li>
-    <li>a list!</li>
+    <li> 1. Intro to Deep Learning ![completion](https://img.shields.io/badge/Completion-100%25-brightgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_01_Intro.ipynb) </li>
+    <li> 2. Perceptrons ![completion](https://img.shields.io/badge/Completion-100%25-brightgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_02_Perceptrons.ipynb) </li>
+    <li> 3. Multi-Layer Perceptrons ![completion](https://img.shields.io/badge/Completion-100%25-brightgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_03_Multi_Layer_Perceptrons.ipynb) </li>
+    <li> 4. Forward Propagation ![completion](https://img.shields.io/badge/Completion-100%25-brightgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_04_Forward_Propagation.ipynb) </li>
+    <li> 5. Customer Churn Prediction using ANN ![completion](https://img.shields.io/badge/Completion-80%25-yellowgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_05_Customer_Churn_Prediction_using_ANN.ipynb) </li>
 </ul>
 </details>
 
@@ -24,8 +29,6 @@
 </ul>
 </details>
 
-
-> **`Note`**: Use **nbviewer** (recommended) in order to view the jupyter notebook. You can see all the codes and the outputs in nbviwer without running the whole code again.
 
 ## 1. Intro to Deep Learning ![completion](https://img.shields.io/badge/Completion-100%25-brightgreen) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_01_Intro.ipynb)
 
