@@ -1,6 +1,4 @@
-# Deep Learning
-
-![](/data/animations/DL-01.gif)
+# ![Deep Learning](/data/animations/DL-01.gif)
 
 > **`Note`**: Use **nbviewer** (recommended) in order to view the jupyter notebook. You can see all the codes and the outputs in nbviwer without running the whole code again.
 
