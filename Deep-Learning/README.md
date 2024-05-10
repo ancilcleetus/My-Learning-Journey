@@ -1,25 +1,29 @@
 # ![Deep Learning](data/animations/DL-01.gif)
 
 <details>
-<summary> Year 1 (2021 - 2022) </summary>
-  
-  <details>
-  <summary> Refreshers </summary>
-  <ul>
-    <li> Algorithmics </li>
-    <li> Basic tools </li>
-  </ul>
-  </details>
-
-  <details>
-  <summary> Semester 1 </summary>
-  <ul>
-    <li> Data Visualization </li>
-    <li> Ethics </li>
-  </ul>
-  </details>
-  
+<summary> 1. Deep Learning Foundations </summary>
+<ul>
+    <li>This dropdown contains</li>
+    <li>a list!</li>
+</ul>
 </details>
+
+<details>
+<summary> 2. Advanced Deep Learning Concepts </summary>
+<ul>
+    <li>This dropdown contains</li>
+    <li>a list!</li>
+</ul>
+</details>
+
+<details>
+<summary> 3. Deep Learning Projects </summary>
+<ul>
+    <li>This dropdown contains</li>
+    <li>a list!</li>
+</ul>
+</details>
+
 
 > **`Note`**: Use **nbviewer** (recommended) in order to view the jupyter notebook. You can see all the codes and the outputs in nbviwer without running the whole code again.
 
