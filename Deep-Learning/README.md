@@ -1,6 +1,6 @@
 # ![Deep Learning](data/animations/DL-01.gif)
 
-> **`Note 1`**: Use ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) (recommended) in order to view the jupyter notebooks. You can see all the codes and the outputs in nbviwer without running the whole code again.
+> **`Note 1`**: Use ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) (recommended) in order to view the jupyter notebooks (nbviewer loads the notebook really fast compared to GitHub). You can see all the codes and the outputs in nbviwer without running the whole code again.
 
 > **`Note 2`**: It has been observed that sometimes ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) is unable to properly render Table of Contents and complex equations for some of the notebooks. In that case, render notebook in ![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat) itself.
 
