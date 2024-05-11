@@ -12,6 +12,13 @@
     3. [Multi-Layer Perceptrons](DL_03_Multi_Layer_Perceptrons.ipynb) ![100%](https://progress-bar.dev/100) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_03_Multi_Layer_Perceptrons.ipynb)
     4. [Forward Propagation](DL_04_Forward_Propagation.ipynb) ![100%](https://progress-bar.dev/100) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_04_Forward_Propagation.ipynb)
     5. [Customer Churn Prediction using ANN](DL_05_Customer_Churn_Prediction_using_ANN.ipynb) ![70%](https://progress-bar.dev/70) [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/DL_05_Customer_Churn_Prediction_using_ANN.ipynb)
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
 2. Advanced Deep Learning Concepts ![10%](https://progress-bar.dev/10)
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
 3. Deep Learning Projects ![10%](https://progress-bar.dev/10)
 
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
