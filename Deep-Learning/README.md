@@ -4,7 +4,7 @@
 
 > **`Note 2`**: It has been observed that sometimes **Jupyter nbviewer** is unable to properly render Table of Contents and complex equations for some of the notebooks. In that case, render notebook in **GitHub** itself.
 
-> **`Note 3`**: If you want to edit the notebook and rerun cells, open notebooks in **Google Colab**.
+> **`Note 3`**: If you want to edit the notebooks and rerun cells, open notebooks in **Google Colab**.
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
