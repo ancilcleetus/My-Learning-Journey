@@ -102,7 +102,7 @@
     6. LlamaIndex           ![10%](https://progress-bar.dev/10)
     7. OpenAI APIs          ![10%](https://progress-bar.dev/10)
     8. GenAI Projects       ![10%](https://progress-bar.dev/10)
-10. Reinforcement Learning (RL)
+10. [RL (Reinforcement Learning)](/Reinforcement-Learning) ![10%](https://progress-bar.dev/10)
 11. Self-Supervised Learning (SSL)
 12. Data Structures and Algorithms (DSA)    ![10%](https://progress-bar.dev/10)
     1. [Data Structures and Algorithms in Python by Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python)   ![10%](https://progress-bar.dev/10)
