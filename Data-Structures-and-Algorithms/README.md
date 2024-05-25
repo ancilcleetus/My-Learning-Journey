@@ -33,8 +33,9 @@
     5. Make note of
         - which DSA topic
         - which type of problem
-        - which type of patterns used (i.e. how it is optimized)
+        - which type of patterns / techniques used for optimization
     6. Repeat above steps until we cannot optimize further
+    7. Write the solution again in another programming language. This forces you to think through the abstractions again, and helps with retention.
 - If required, solve more LeetCode problems from that topic (use tags)
 - Repeat above steps for all the DSA topics
 
