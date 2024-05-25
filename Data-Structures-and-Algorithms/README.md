@@ -22,8 +22,9 @@
 
 - Complete a DSA topic
 - Build that Data Structure / Algorithm from scratch
-- Solve Assignment problems (from LeetCode) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
-    - For each problem,
+- Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
+
+    For each problem,
         1. First solve using Brute Force approach (worst complexity)
         2. Optimize it
         3. Make note of
