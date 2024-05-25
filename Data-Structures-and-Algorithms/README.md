@@ -17,3 +17,19 @@
 2. DSA Challenges ![10%](https://progress-bar.dev/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## Flow of mastering DSA:
+
+- Complete a DSA topic
+- Build that Data Structure / Algorithm from scratch
+- Solve Assignment problems (from LeetCode) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
+    - For each problem,
+        1. First solve using Brute Force approach (worst complexity)
+        2. Optimize it
+        3. Make note of
+            - which DSA topic
+            - which type of problem
+            - which type of patterns used (i.e. how it is optimized)
+        4. Go back to Step 2 and repeat until we cannot optimize further
+- If required, solve more LeetCode problems from that topic (use tags)
+
