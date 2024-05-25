@@ -25,12 +25,13 @@
 - Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
 
     For each problem,
-        1. First solve using Brute Force approach (worst complexity)
-        2. Optimize it
-        3. Make note of
-            - which DSA topic
-            - which type of problem
-            - which type of patterns used (i.e. how it is optimized)
-        4. Go back to Step 2 and repeat until we cannot optimize further
+    
+    1. First solve using Brute Force approach (worst complexity)
+    2. Optimize it
+    3. Make note of
+        - which DSA topic
+        - which type of problem
+        - which type of patterns used (i.e. how it is optimized)
+    4. Go back to Step 2 and repeat until we cannot optimize further
 - If required, solve more LeetCode problems from that topic (use tags)
 
