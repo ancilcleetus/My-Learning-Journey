@@ -21,17 +21,20 @@
 ## Flow of mastering DSA:
 
 - Complete a DSA topic
-- Build that Data Structure / Algorithm from scratch
+- Implement that Data Structure / Algorithm from scratch
 - Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
 
     For each problem,
     
-    1. First solve using Brute Force approach (worst complexity)
-    2. Optimize it
-    3. Make note of
+    1. Commit to about 20-30 minutes of trying to solve it by yourself before going to the solution. Really try to get some semblance of a correct output. Brute force it if you have to - just try to reason about any kind of working solution, no matter how slow. It will help you understand the necessities to optimize later.
+    2. If you get stuck, start by looking at a hint. Then keep trying to solve it. Repeat until there are no more hints.
+    3. No hints? Start going through the walkthrough or solution very slowly. As soon as you get unstuck, STOP READING.
+    4. Use the bit of insight to start trying to code again.
+    5. Make note of
         - which DSA topic
         - which type of problem
         - which type of patterns used (i.e. how it is optimized)
-    4. Go back to Step 2 and repeat until we cannot optimize further
+    6. Repeat above steps until we cannot optimize further
 - If required, solve more LeetCode problems from that topic (use tags)
+- Repeat above steps for all the DSA topics
 
