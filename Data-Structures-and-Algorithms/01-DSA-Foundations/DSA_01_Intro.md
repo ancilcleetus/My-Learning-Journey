@@ -166,3 +166,4 @@ During the interview, we can follow  the flow below:
         - Space Complexity:
         The space complexity is $O(1)$ because the function only uses a constant amount of extra space (for variable `current_nonzero_position`) regardless of the size of the input array.
     - If the input-outputs check in, write final optimized code from pseudocode.
+
