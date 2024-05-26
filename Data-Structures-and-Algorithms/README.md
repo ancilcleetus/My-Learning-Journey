@@ -50,13 +50,13 @@ Consider the below problem:
     
 During the interview, we can follow  the flow below:
 
-    1. Clarify the requirements $\Rightarrow$ Until you know exactly what the problem is, you have no business trying to come up with a solution
+    1. Clarify the requirements ⇒ Until you know exactly what the problem is, you have no business trying to come up with a solution
         - Question: Write a method that moves all zeros in an array to its end.
         - Requirement (derived after discussion with the interviewer): We want to move all the zeros to the back, while keeping nonzeros in front. We want to also keep the order the nonzeros were originally in, and the algorithm should run in linear time i.e. $O(n)$.
-    2. Start With Inputs and Outputs $\Rightarrow$ Create your own testcases (inputs and corresponding outputs). Start with small inputs and then increase the size of inputs.
-        - Input [0, 1] $\Rightarrow$ Output [1, 0]
-        - Input [0, 4, 0] $\Rightarrow$ Output [4, 0, 0]
-        - Input [1, 0, 2, 0, 4, 0] $\Rightarrow$ Output [1, 2, 4, 0, 0, 0]
+    2. Start With Inputs and Outputs ⇒ Create your own testcases (inputs and corresponding outputs). Start with small inputs and then increase the size of inputs.
+        - Input [0, 1] ⇒ Output [1, 0]
+        - Input [0, 4, 0] ⇒ Output [4, 0, 0]
+        - Input [1, 0, 2, 0, 4, 0] ⇒ Output [1, 2, 4, 0, 0, 0]
     3. Come up with a Brute Force Solution
     
 
