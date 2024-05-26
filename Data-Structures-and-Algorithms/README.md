@@ -38,4 +38,5 @@
     7. Write the solution again in another programming language. This forces you to think through the abstractions again, and helps with retention.
 - If required, solve more LeetCode problems from that topic (use tags)
 - Repeat above steps for all the DSA topics
+- Optional: Create a DSA Visualizer Personal Project for visualizing different Data Structures and Algorithms
 
