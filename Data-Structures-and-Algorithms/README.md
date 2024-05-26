@@ -77,50 +77,59 @@ During the interview, we can follow  the flow below:
     return result
     ```
 5. Optimize the Brute Force Solution with Patterns and Abstractions
-    - Can we do this without instantiating a new array ?
-    ```
-    def zeros_to_end(array):
-        consec_zeros_flag = False
-        consec_zeros_count = 0
-        for i in range(len(array) - 1):
-            current_ = array[i]
-            next_ = array[i + 1]
-            if current_ != 0 and next_ == 0:
-                pass
-            elif current_ != 0 and next_ != 0:
-                pass
-            elif current_ == 0 and next_ != 0:
-                if not consec_zeros_flag:
-                    array[i + 1] = current_
-                    array[i] = next_
-                else:
-                    array[i - consec_zeros_count + 1] = next_
-                    array[i + 1] = current_
-            elif current_ == 0 and next_ == 0:
-                if not consec_zeros_flag:
-                    consec_zeros_flag = True
-                    consec_zeros_count = 2
-                else:
-                    consec_zeros_count += 1
-                    
-        return array
+    - Since this is an array, we need to go through each element to create a zero-ending array. Hence, Time Complexity cannot be optimized better than $O(n)$. Can we optimize the Space Complexity ? Can we do this without instantiating a new array ?
+        - Solution:
+        ```
+        def zeros_to_end(array):
+            consec_zeros_flag = False
+            consec_zeros_count = 0
+            for i in range(len(array) - 1):
+                current_ = array[i]
+                next_ = array[i + 1]
+                if current_ != 0 and next_ == 0:
+                    pass
+                elif current_ != 0 and next_ != 0:
+                    pass
+                elif current_ == 0 and next_ != 0:
+                    if not consec_zeros_flag:
+                        array[i + 1] = current_
+                        array[i] = next_
+                    else:
+                        array[i - consec_zeros_count + 1] = next_
+                        array[i + 1] = current_
+                elif current_ == 0 and next_ == 0:
+                    if not consec_zeros_flag:
+                        consec_zeros_flag = True
+                        consec_zeros_count = 2
+                    else:
+                        consec_zeros_count += 1
+                        
+            return array
 
-    array_1 = [0, 1]
-    array_2 = [0, 4, 0]
-    array_3 = [1, 0, 2, 0, 4, 0]
-    array_4 = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0]
+        array_1 = [0, 1]
+        array_2 = [0, 4, 0]
+        array_3 = [1, 0, 2, 0, 4, 0]
+        array_4 = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0]
 
-    print(f"Input = {array_1}, Output = {zeros_to_end(array_1)}")
-    print(f"Input = {array_2}, Output = {zeros_to_end(array_2)}")
-    print(f"Input = {array_3}, Output = {zeros_to_end(array_3)}")
-    print(f"Input = {array_4}, Output = {zeros_to_end(array_4)}")
-    ```
-    
-    ```
-    Input = [0, 1], Output = [1, 0]
-    Input = [0, 4, 0], Output = [4, 0, 0]
-    Input = [1, 0, 2, 0, 4, 0], Output = [1, 2, 4, 0, 0, 0]
-    Input = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0], Output = [1, 2, 4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        print(f"Input = {array_1}, Output = {zeros_to_end(array_1)}")
+        print(f"Input = {array_2}, Output = {zeros_to_end(array_2)}")
+        print(f"Input = {array_3}, Output = {zeros_to_end(array_3)}")
+        print(f"Input = {array_4}, Output = {zeros_to_end(array_4)}")
+        ```
+        
+        ```
+        Input = [0, 1], Output = [1, 0]
+        Input = [0, 4, 0], Output = [4, 0, 0]
+        Input = [1, 0, 2, 0, 4, 0], Output = [1, 2, 4, 0, 0, 0]
+        Input = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0], Output = [1, 2, 4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
-    === Code Execution Successful ===
-    ```
+        === Code Execution Successful ===
+        ```
+        - Time Complexity:
+        The time complexity of this function is $O(n)$, where n is the number of elements in the input array. This is because the function iterates through the array once, checking each element and potentially swapping elements if they are zeros.
+        - Space Complexity:
+        The space complexity is O(1) because the function only uses a constant amount of extra space regardless of the size of the input array.
+    - Also check whether we can transform the input to ease the optimization
+        - If it's a collection, does sorting / grouping help ?
+        - If it's a tree, can we transform it into an array or a linked list ?
+    - 
