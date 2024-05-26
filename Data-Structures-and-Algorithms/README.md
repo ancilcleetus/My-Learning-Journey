@@ -22,7 +22,7 @@
 
 - Complete a DSA topic
 - Implement that Data Structure / Algorithm from scratch
-- Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) => Easy problems -> 240+, Medium problems -> 200+, Hard problems -> 100+
+- Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) $\Rightarrow$ Easy problems $\rightarrow$ 240+, Medium problems $\rightarrow$ 200+, Hard problems $\rightarrow$ 100+
 
     For each problem,
     
@@ -39,4 +39,23 @@
 - If required, solve more LeetCode problems from that topic (use tags)
 - Repeat above steps for all the DSA topics
 - Optional: Create a DSA Visualizer Personal Project for visualizing different Data Structures and Algorithms
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## Flow of attempting a coding problem during interviews:
+
+Consider the below problem:
+    - Question: Write a method that moves all zeros in an array to its end.
+    
+During the interview, we can follow  the flow below:
+    
+    1. Clarify the requirements $\Rightarrow$ Until you know exactly what the problem is, you have no business trying to come up with a solution
+        - Question: Write a method that moves all zeros in an array to its end.
+        - Requirement (derived after discussion with the interviewer): We want to move all the zeros to the back, while keeping nonzeros in front. We want to also keep the order the nonzeros were originally in, and the algorithm should run in linear time i.e. $O(n)$.
+    2. Start With Inputs and Outputs $\Rightarrow$ Create your own testcases (inputs and corresponding outputs). Start with small inputs and then increase the size of inputs.
+        - Input [0, 1] $\Rightarrow$ Output [1, 0]
+        - Input [0, 4, 0] $\Rightarrow$ Output [4, 0, 0]
+        - Input [1, 0, 2, 0, 4, 0] $\Rightarrow$ Output [1, 2, 4, 0, 0, 0]
+    3. Come up with a Brute Force Solution
+    
 
