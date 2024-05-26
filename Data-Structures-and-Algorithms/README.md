@@ -59,7 +59,7 @@ During the interview, we can follow  the flow below:
     - Input [1, 0, 2, 0, 4, 0] $\Rightarrow$ Output [1, 2, 4, 0, 0, 0]
 3. Come up with a Brute Force Solution $\Rightarrow$ How would a human manually solve this ?
     - For these examples, the result keeps returning an array of the non-zeros plus an array of the zeros at the end. Thinking through a very basic implementation, what I've been doing is: iterating through, finding the non-zeros, and just putting them in an another `temp` array. Then I've been filling the rest of the result array with `0`s until we've gotten the original length.
-4. Use Pseudocode to clarify your thoughts $\Rightarrow$ 
+4. Use Pseudocode to clarify your thoughts
     - Unless an algorithm is simple, write pseudocode in the first pass.
     - Then, we can optimize the pseudocode. Once enough optimization is achieved, it can be coded and tested
     - Additionally, thinking in pseudocode is much easier to modify if you encounter an error
@@ -75,4 +75,52 @@ During the interview, we can follow  the flow below:
         append 0 to result
         
     return result
+    ```
+5. Optimize the Brute Force Solution with Patterns and Abstractions
+    - Can we do this without instantiating a new array ?
+    ```
+    def zeros_to_end(array):
+        consec_zeros_flag = False
+        consec_zeros_count = 0
+        for i in range(len(array) - 1):
+            current_ = array[i]
+            next_ = array[i + 1]
+            if current_ != 0 and next_ == 0:
+                pass
+            elif current_ != 0 and next_ != 0:
+                pass
+            elif current_ == 0 and next_ != 0:
+                if not consec_zeros_flag:
+                    array[i + 1] = current_
+                    array[i] = next_
+                else:
+                    array[i - consec_zeros_count + 1] = next_
+                    array[i + 1] = current_
+            elif current_ == 0 and next_ == 0:
+                if not consec_zeros_flag:
+                    consec_zeros_flag = True
+                    consec_zeros_count = 2
+                else:
+                    consec_zeros_count += 1
+                    
+        return array
+
+    array_1 = [0, 1]
+    array_2 = [0, 4, 0]
+    array_3 = [1, 0, 2, 0, 4, 0]
+    array_4 = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0]
+
+    print(f"Input = {array_1}, Output = {zeros_to_end(array_1)}")
+    print(f"Input = {array_2}, Output = {zeros_to_end(array_2)}")
+    print(f"Input = {array_3}, Output = {zeros_to_end(array_3)}")
+    print(f"Input = {array_4}, Output = {zeros_to_end(array_4)}")
+    ```
+    
+    ```
+    Input = [0, 1], Output = [1, 0]
+    Input = [0, 4, 0], Output = [4, 0, 0]
+    Input = [1, 0, 2, 0, 4, 0], Output = [1, 2, 4, 0, 0, 0]
+    Input = [1, 0, 2, 0, 0, 4, 0, 0, 0, 0, 1, 0, 2, 0, 0, 0], Output = [1, 2, 4, 1, 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+
+    === Code Execution Successful ===
     ```
