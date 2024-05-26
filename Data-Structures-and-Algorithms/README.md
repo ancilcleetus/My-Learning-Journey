@@ -48,7 +48,6 @@ Consider the below problem:
     - Question: Write a method that moves all zeros in an array to its end.
     
 During the interview, we can follow  the flow below:
-    
     1. Clarify the requirements $\Rightarrow$ Until you know exactly what the problem is, you have no business trying to come up with a solution
         - Question: Write a method that moves all zeros in an array to its end.
         - Requirement (derived after discussion with the interviewer): We want to move all the zeros to the back, while keeping nonzeros in front. We want to also keep the order the nonzeros were originally in, and the algorithm should run in linear time i.e. $O(n)$.
