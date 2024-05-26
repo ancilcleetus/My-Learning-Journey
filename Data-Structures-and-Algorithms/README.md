@@ -46,7 +46,7 @@
 
 Consider the below problem:
 
-    - Question: Write a method that moves all zeros in an array to its end.
+- Question: Write a method that moves all zeros in an array to its end.
     
 During the interview, we can follow  the flow below:
 
@@ -57,5 +57,22 @@ During the interview, we can follow  the flow below:
     - Input [0, 1] $\Rightarrow$ Output [1, 0]
     - Input [0, 4, 0] $\Rightarrow$ Output [4, 0, 0]
     - Input [1, 0, 2, 0, 4, 0] $\Rightarrow$ Output [1, 2, 4, 0, 0, 0]
-3. Come up with a Brute Force Solution
-
+3. Come up with a Brute Force Solution $\Rightarrow$ How would a human manually solve this ?
+    - For these examples, the result keeps returning an array of the non-zeros plus an array of the zeros at the end. Thinking through a very basic implementation, what I've been doing is: iterating through, finding the non-zeros, and just putting them in an another `temp` array. Then I've been filling the rest of the result array with `0`s until we've gotten the original length.
+4. Use Pseudocode to clarify your thoughts $\Rightarrow$ 
+    - Unless an algorithm is simple, write pseudocode in the first pass.
+    - Then, we can optimize the pseudocode. Once enough optimization is achieved, it can be coded and tested
+    - Additionally, thinking in pseudocode is much easier to modify if you encounter an error
+    - For above problem, pseudocode for Brute Force Solution is as below:
+    ```
+    result = []
+    zero_count = 0
+    for value in array:
+        if non-zero, append to result
+        if zero, increment zero_count
+        
+    for zero_count times:
+        append 0 to result
+        
+    return result
+    ```
