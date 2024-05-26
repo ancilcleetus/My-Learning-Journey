@@ -77,6 +77,7 @@ During the interview, we can follow  the flow below:
     return result
     ```
 5. Optimize the Brute Force Solution with Patterns and Abstractions
+    - After you've done enough coding challenges, you'll begin to recognize patterns you can leverage.
     - Since this is an array, we need to go through each element to create a zero-ending array. Hence, Time Complexity cannot be optimized better than $O(n)$. Can we optimize the Space Complexity ? Can we do this without instantiating a new array ?
         - Solution:
         ```
@@ -128,8 +129,13 @@ During the interview, we can follow  the flow below:
         - Time Complexity:
         The time complexity of this function is $O(n)$, where n is the number of elements in the input array. This is because the function iterates through the array once, checking each element and potentially swapping elements if they are zeros.
         - Space Complexity:
-        The space complexity is O(1) because the function only uses a constant amount of extra space regardless of the size of the input array.
+        The space complexity is $O(1)$ because the function only uses a constant amount of extra space regardless of the size of the input array.
     - Also check whether we can transform the input to ease the optimization
         - If it's a collection, does sorting / grouping help ?
         - If it's a tree, can we transform it into an array or a linked list ?
-    - 
+    - Introduce a Data Structure or Abstract Data Type
+        - This is where the study of data structures (and experience implementing and using them) really helps. If you can identify the bottleneck, you can start to try to throw data structures at the problem to see if there are any performance or spatial gains.
+        - Note that the data structure doesn't need to be fancy. In above optimized solution, we introduced a boolean variable `consec_zeros_flag` and an integer variable `consec_zeros_count` and reduced the Space Complexity. Sometimes that's all you need.
+    - Introduce an Algorithm Technique
+        - Divide and Conquer, Recursion, Memoization etc.
+    
