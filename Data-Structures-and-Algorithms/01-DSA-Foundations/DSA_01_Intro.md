@@ -1,5 +1,7 @@
 # DSA Preparation for Interviews
 
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
 ## Flow of mastering DSA:
 
 - Complete a DSA topic
@@ -173,3 +175,4 @@ During the interview, we can follow  the flow below:
         The space complexity is $O(1)$ because the function only uses a constant amount of extra space (for variable `current_nonzero_position`) regardless of the size of the input array.
     - If the input-outputs check in, write final optimized code from pseudocode.
 
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
