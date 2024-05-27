@@ -4,7 +4,13 @@
 
 - Complete a DSA topic
 - Implement that Data Structure / Algorithm from scratch
-- Solve Assignment problems (from [LeetCode](https://leetcode.com/)) for that topic from [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) $\Rightarrow$ Easy problems $\rightarrow$ 240+, Medium problems $\rightarrow$ 200+, Hard problems $\rightarrow$ 100+
+- Solve Assignment problems for that topic
+    
+    You can choose problems from any of the below:
+    
+    1. [NeetCode](https://neetcode.io/practice) $\Rightarrow$ Start with NeetCode150, then solve all the other problems
+    2. [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) $\Rightarrow$ Easy problems $\rightarrow$ 240+, Medium problems $\rightarrow$ 200+, Hard problems $\rightarrow$ 100+
+    3. [LeetCode](https://leetcode.com/)
 
     For each problem,
     
