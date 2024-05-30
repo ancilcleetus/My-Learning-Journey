@@ -21,7 +21,7 @@
         1. [Matplotlib](https://python-graph-gallery.com/matplotlib/) ![10%](https://progress-bar.dev/10)
         2. [Seaborn](https://python-graph-gallery.com/seaborn/) ![10%](https://progress-bar.dev/10)
         3. [Plotly](https://python-graph-gallery.com/plotly/) ![10%](https://progress-bar.dev/10)
-        4. [[Decision Tree to choose the most appropriate graph for your data](https://www.data-to-viz.com/#poster_full)](/Tools/Data-Visualization/data/images/data-to-viz-chart-types-poster_big.png)
+        4. [Decision Tree to choose the most appropriate graph for your data](https://www.data-to-viz.com/#poster_full)
         5. [Beautiful Chart Examples](https://www.dataviz-inspiration.com/)
     5. EDA (Exploratory Data Analysis) ![10%](https://progress-bar.dev/10)
 4. [Machine Learning](/Machine-Learning) ![10%](https://progress-bar.dev/10)
