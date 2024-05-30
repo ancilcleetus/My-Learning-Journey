@@ -90,7 +90,7 @@
         1. [Intro to CNNs](/Computer-Vision/01-Computer-Vision-Foundations/CV_01_Intro_to_CNNs.ipynb) ![50%](https://progress-bar.dev/50)
         2. [Cats Vs Dogs Image Classifier from scratch using Keras](/Computer-Vision/01-Computer-Vision-Foundations/CV_02_Cats_Dogs_Classifier_from_Scratch_Keras.ipynb) ![100%](https://progress-bar.dev/100)
     2. [CV Projects](/Computer-Vision/02-Computer-Vision-Projects) ![10%](https://progress-bar.dev/10)
-        1. [Emotion Classifier](/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras) ![10%](https://progress-bar.dev/10)
+        1. [Emotion Classifier](/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras) ![50%](https://progress-bar.dev/50)
 8. NLP (Natural Language Processing)    ![10%](https://progress-bar.dev/10)
     1. NLP Principles       ![10%](https://progress-bar.dev/10)
     2. NLP Projects         ![10%](https://progress-bar.dev/10)
