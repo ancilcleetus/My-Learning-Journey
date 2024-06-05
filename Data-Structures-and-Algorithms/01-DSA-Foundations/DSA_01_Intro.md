@@ -6,7 +6,7 @@
 
 - Complete a DSA topic
 - Implement that Data Structure / Algorithm from scratch
-- Solve Assignment problems for that topic
+- Solve coding problems for that topic
     
     You can choose problems from any of the below:
     
