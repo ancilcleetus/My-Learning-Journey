@@ -123,6 +123,8 @@
     2. Edge AI and TinyML Projects ![10%](https://progress-bar.dev/10)
 14. [DSA (Data Structures and Algorithms)](/Data-Structures-and-Algorithms) ![10%](https://progress-bar.dev/10)
     1. [DSA Foundations](/Data-Structures-and-Algorithms/01-DSA-Foundations) ![10%](https://progress-bar.dev/10)
+        1. [DSA Preparation for Interviews](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_01_Intro.md) ![100%](https://progress-bar.dev/100)
+        2. [Algorithmic Complexity and Big O Notation](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_02_Algorithmic_Complexity.ipynb) ![10%](https://progress-bar.dev/10)
     2. [DSA Challenges](/Data-Structures-and-Algorithms/02-DSA-Challenges) ![10%](https://progress-bar.dev/10)
     1. [Data Structures and Algorithms in Python by Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python)   ![10%](https://progress-bar.dev/10)
     2. [Data Structures and Algorithms in Java by Kunal Kushwaha](https://www.techwithkunal.com/courses/dsa)   ![10%](https://progress-bar.dev/10)
