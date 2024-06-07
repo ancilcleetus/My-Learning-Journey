@@ -124,7 +124,7 @@
     1. [DSA Foundations](/Data-Structures-and-Algorithms/01-DSA-Foundations) ![10%](https://progress-bar.dev/10)
         1. [DSA Preparation for Interviews](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_01_Intro.md) ![100%](https://progress-bar.dev/100)
         2. [Algorithmic Complexity and Big O Notation](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_02_Algorithmic_Complexity.ipynb) ![100%](https://progress-bar.dev/100)
-        3. [Intro to Data Structures](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_03_Intro_to_Datastructures.ipynb) ![10%](https://progress-bar.dev/10)
+        3. [Intro to Data Structures](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_03_Intro_to_Datastructures.ipynb) ![100%](https://progress-bar.dev/100)
     2. [DSA Challenges](/Data-Structures-and-Algorithms/02-DSA-Challenges) ![10%](https://progress-bar.dev/10)
     1. [Data Structures and Algorithms in Python by Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python)   ![10%](https://progress-bar.dev/10)
     2. [Data Structures and Algorithms in Java by Kunal Kushwaha](https://www.techwithkunal.com/courses/dsa)   ![10%](https://progress-bar.dev/10)
