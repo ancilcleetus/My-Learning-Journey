@@ -16,7 +16,7 @@
     
     **Note**
     
-    Solving all problems from NeetCodeAll is sufficient for Interviews.
+    Solving all problems from NeetCodeAll is more than sufficient for Interviews.
 
     For each problem,
     
