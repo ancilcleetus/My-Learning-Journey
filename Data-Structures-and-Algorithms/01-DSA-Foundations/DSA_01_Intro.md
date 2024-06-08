@@ -10,9 +10,13 @@
     
     You can choose problems from any of the below:
     
-    1. [NeetCode](https://neetcode.io/practice) $\Rightarrow$ Start with NeetCode150, then solve all the other problems
+    1. [NeetCode](https://neetcode.io/practice) $\Rightarrow$ Start with NeetCode150, then solve all the other problems (NeetCodeAll has 580 problems)
     2. [Kunal Kushwaha's DSA course](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java) $\Rightarrow$ Easy problems $\rightarrow$ 240+, Medium problems $\rightarrow$ 200+, Hard problems $\rightarrow$ 100+
     3. [LeetCode](https://leetcode.com/)
+    
+    **Note**
+    
+    Solving all problems from NeetCodeAll is sufficient for Interviews.
 
     For each problem,
     
