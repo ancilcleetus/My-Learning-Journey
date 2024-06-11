@@ -130,6 +130,7 @@
         3. [Intro to Data Structures](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_Foundations_03_Intro_to_Datastructures.ipynb) ![100%](https://progress-bar.dev/100)
         4. [Arrays](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_Foundations_04_Arrays.ipynb) ![10%](https://progress-bar.dev/10)
     2. [DSA Challenges](/Data-Structures-and-Algorithms/02-DSA-Challenges) ![10%](https://progress-bar.dev/10)
+        1. [Arrays](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_01_Arrays.ipynb) ![10%](https://progress-bar.dev/10)
     1. [Data Structures and Algorithms in Python by Jovian](https://jovian.ai/learn/data-structures-and-algorithms-in-python)   ![10%](https://progress-bar.dev/10)
     2. [Data Structures and Algorithms in Java by Kunal Kushwaha](https://www.techwithkunal.com/courses/dsa)   ![10%](https://progress-bar.dev/10)
     3. [AlgoMonster](https://algo.monster/)    ![10%](https://progress-bar.dev/10)
