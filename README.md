@@ -92,7 +92,7 @@
         4. [VGG16 Model](/Computer-Vision/01-Computer-Vision-Foundations/CV_04_VGG16_Model.ipynb) ![80%](https://progress-bar.dev/80)
         5. [ResNet Model](/Computer-Vision/01-Computer-Vision-Foundations/CV_05_ResNet_Model.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Computer Vision Projects](/Computer-Vision/02-Computer-Vision-Projects) ![10%](https://progress-bar.dev/10)
-        1. [Emotion Classifier](/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras) ![60%](https://progress-bar.dev/60)
+        1. [Emotion Classifier](/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras) ![80%](https://progress-bar.dev/80)
 8. NLP (Natural Language Processing)    ![10%](https://progress-bar.dev/10)
     1. NLP Foundations       ![10%](https://progress-bar.dev/10)
     2. NLP Projects         ![10%](https://progress-bar.dev/10)
