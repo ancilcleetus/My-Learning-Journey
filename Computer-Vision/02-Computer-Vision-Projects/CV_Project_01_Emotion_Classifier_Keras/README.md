@@ -20,11 +20,11 @@
 
 ## Results:
 
-1. Real-time Prediction on Webcam Video
+1. Real-time Emotion Prediction on Webcam Video
 
 ![Emotion Classifier using Keras](data/animations/Ancil_Cleetus_Classified_Emotions_240p.gif)
 
-2. Prediction on user uploaded images
+2. Upload an Image and Discover the Emotions Within
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
