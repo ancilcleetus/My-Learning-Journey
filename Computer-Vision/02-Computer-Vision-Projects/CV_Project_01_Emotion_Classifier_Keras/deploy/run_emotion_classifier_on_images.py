@@ -10,7 +10,9 @@ from tensorflow.keras.preprocessing.image import img_to_array
 from taipy.gui import Gui, notify
 
 # Load your pre-trained model
-model = tf.keras.models.load_model('./ResNet50_Transfer_Learning_40_Epochs.keras')
+# model_path = "ResNet50_Transfer_Learning_40_Epochs.keras"
+model_path = "Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras/deploy/ResNet50_Transfer_Learning_40_Epochs.keras"
+model = tf.keras.models.load_model(model_path)
 
 # Emotion labels
 emotion_labels = ['Angry', 'Disgust', 'Fear', 'Happy', 'Neutral', 'Sad', 'Surprise']
