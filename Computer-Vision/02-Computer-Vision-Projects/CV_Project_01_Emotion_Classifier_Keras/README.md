@@ -24,7 +24,9 @@
 
 ![Emotion Classifier using Keras](data/animations/Ancil_Cleetus_Classified_Emotions_240p.gif)
 
-2. Upload an Image and Discover the Emotions Within
+2. Emotion Classifier Gradio App Demo: Upload an Image and Discover the Emotions Within
+
+![Emotion Classifier Gradio App Demo](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/f9104a3e-31ec-4650-8832-cff7c634dfd5)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
