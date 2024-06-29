@@ -44,13 +44,13 @@ def predict_emotions(video_path, output_path):
     if not ret:
       break
 
-    # Detect faces in the grayscale frame
+    # Detect faces in the frame
     faces = face_classifier.detectMultiScale(frame, scaleFactor=1.1, minNeighbors=5, minSize=(100, 100), flags=cv2.CASCADE_SCALE_IMAGE)
     # Process each face detected
     for (x, y, w, h) in faces:
       # Draw a rectangle around each detected face
       cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
-      # Extract the region of interest (ROI) i.e. the face area from the grayscale frame
+      # Extract the region of interest (ROI) i.e. the face area from the frame
       face = frame[y:y + h, x:x + w]
       # Resize the ROI to the size expected by the model (224x224 pixels in this case)
       face = cv2.resize(face, (224, 224))
