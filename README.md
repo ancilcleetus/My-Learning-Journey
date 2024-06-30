@@ -91,6 +91,7 @@
         3. [Transfer Learning and Fine-tuning](/Computer-Vision/01-Computer-Vision-Foundations/CV_03_Transfer_Learning.ipynb) ![100%](https://progress-bar.dev/100)
         4. [VGG16 Model](/Computer-Vision/01-Computer-Vision-Foundations/CV_04_VGG16_Model.ipynb) ![80%](https://progress-bar.dev/80)
         5. [ResNet Model](/Computer-Vision/01-Computer-Vision-Foundations/CV_05_ResNet_Model.ipynb) ![70%](https://progress-bar.dev/70)
+        6. [Interview Questions on CNNs](/Computer-Vision/01-Computer-Vision-Foundations/CV_XX_Interview_Questions_on_CNNs.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Computer Vision Projects](/Computer-Vision/02-Computer-Vision-Projects) ![10%](https://progress-bar.dev/10)
         1. [Emotion Classifier](/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras) ![100%](https://progress-bar.dev/100)
 8. NLP (Natural Language Processing)    ![10%](https://progress-bar.dev/10)
