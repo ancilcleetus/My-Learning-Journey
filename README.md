@@ -75,7 +75,7 @@
         3. [Multi-Layer Perceptrons](/Deep-Learning/01-Deep-Learning-Foundations/DL_03_Multi_Layer_Perceptrons.ipynb) ![100%](https://progress-bar.dev/100)
         4. [Forward Propagation](/Deep-Learning/01-Deep-Learning-Foundations/DL_04_Forward_Propagation.ipynb) ![100%](https://progress-bar.dev/100)
         5. [Customer Churn Prediction using ANN](/Deep-Learning/01-Deep-Learning-Foundations/DL_05_Customer_Churn_Prediction_using_ANN.ipynb) ![10%](https://progress-bar.dev/10)
-        6. [Intro to PyTorch](/Deep-Learning/01-Deep-Learning-Foundations/DL_X1_Intro_to_PyTorch.ipynb) ![10%](https://progress-bar.dev/10)
+        6. [PyTorch Tensors](/Deep-Learning/01-Deep-Learning-Foundations/DL_X1_PyTorch_Tensors.ipynb) ![100%](https://progress-bar.dev/100)
         1. ANN                      ![10%](https://progress-bar.dev/10)
         2. CNN                      ![10%](https://progress-bar.dev/10)
         3. RNN                      ![10%](https://progress-bar.dev/10)
