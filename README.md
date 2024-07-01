@@ -120,10 +120,10 @@
     6. LlamaIndex           ![10%](https://progress-bar.dev/10)
     7. OpenAI APIs          ![10%](https://progress-bar.dev/10)
     8. GenAI Projects       ![10%](https://progress-bar.dev/10)
-11. AI Agents
-12. Multimodal AI
+11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
         1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/) ![10%](https://progress-bar.dev/10)
+12. AI Agents
 13. Edge AI and TinyML ![10%](https://progress-bar.dev/10)
     1. Edge AI and TinyML Foundations ![10%](https://progress-bar.dev/10)
         1. [TinyML and Efficient Deep Learning Computing Course](https://hanlab.mit.edu/course) ![10%](https://progress-bar.dev/10)
