@@ -16,7 +16,9 @@
 2. Emotion Classifier Model Deployment Notebook ![100%](https://progress-bar.dev/100) [![Open Notebook in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](CV_Project_01_Emotion_Classifier_Keras_Deployment.ipynb) [![Open Notebook in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras/CV_Project_01_Emotion_Classifier_Keras_Deployment.ipynb) [![Open Notebook in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_Emotion_Classifier_Keras/CV_Project_01_Emotion_Classifier_Keras_Deployment.ipynb)
 3. [Emotion Classifier Gradio App](https://7dcaa9ee8b97436782.gradio.live/) ![100%](https://progress-bar.dev/100)
 
-> **`Note`**: Emotion Classifier Gradio App is not running right now. Demo video of Emotion Classifier Gradio App is given below. The App will be deployed in my personal website in the near future.
+> **`Note 1`**: Emotion Classifier Gradio App is not running right now. Demo video of Emotion Classifier Gradio App can be found below. You can run the app by rerunning the Emotion Classifier Model Deployment Notebook in ![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat).
+
+> **`Note 2`**: The App will be deployed in my personal website in the near future.
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
