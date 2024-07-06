@@ -34,6 +34,6 @@ https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/28d92daf-923
 
 ## Future Improvements Envisioned:
 
-1. Deployment in my personal website [Emotion Classifier App](http://ancilcleetus.com/Personal-Projects/Computer-Vision-Projects/CV_Project_01_EmotionScope)
+1. Deployment in my personal website [EmotionScope App](http://ancilcleetus.com/Personal-Projects/Computer-Vision-Projects/CV_Project_01_EmotionScope)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
