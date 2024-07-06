@@ -26,13 +26,7 @@
 
 1. EmotionScope App
 
-<iframe
-    src="https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope"
-    width="100%"
-    height="800"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
+<iframe src="https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope" frameborder="0" width="100%" height="800" allowfullscreen></iframe>
 
 2. Real-time Emotion Prediction on Webcam Video
 
