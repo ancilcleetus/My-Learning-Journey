@@ -31,7 +31,6 @@
 	frameborder="0"
 	width="850"
 	height="450"
-	allowfullscreen
 ></iframe>
 
 2. Real-time Emotion Prediction on Webcam Video
