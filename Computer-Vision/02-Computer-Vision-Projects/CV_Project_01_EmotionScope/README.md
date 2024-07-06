@@ -24,11 +24,21 @@
 
 ## Results:
 
-1. Real-time Emotion Prediction on Webcam Video
+1. EmotionScope App
+
+<iframe
+    src="https://huggingface.co/spaces/ancilcleetus/CV_Project_01_EmotionScope"
+    width="100%"
+    height="800"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+
+2. Real-time Emotion Prediction on Webcam Video
 
 ![Emotion Classifier using Keras](data/animations/Ancil_Cleetus_Classified_Emotions_240p.gif)
 
-2. Emotion Classifier Gradio App Demo: Upload an Image and Discover the Emotions Within
+3. Emotion Classifier Gradio App Demo: Upload an Image and Discover the Emotions Within
 
 https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/ebceaeaa-07de-4c09-8ce0-ba7ce70fced0
 
