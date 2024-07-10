@@ -105,7 +105,7 @@
 10. [GenAI (Generative AI)](/Generative-AI) ![10%](https://progress-bar.dev/10)
     1. [Generative AI Foundations](/Generative-AI/01-GenAI-Foundations) ![10%](https://progress-bar.dev/10)
         1. [LangChain & Vector Databases in Production Certification by Activeloop](https://learn.activeloop.ai/courses/langchain) ![10%](https://progress-bar.dev/10)
-            1. [LangChain 101](/Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01_LangChain_101.ipynb) ![10%](https://progress-bar.dev/10)
+            1. [LangChain 101](/Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01_LangChain_101.ipynb) ![100%](https://progress-bar.dev/100)
     2. [Generative AI Projects](/Generative-AI/02-GenAI-Projects) ![10%](https://progress-bar.dev/10)
     1. [Generative AI Fundamentals with Google Cloud by Udacity](https://www.udacity.com/course/generative-ai-fundamentals-for-google-cloud--cd13291)      ![10%](https://progress-bar.dev/10)
     2. [LLMOps: Building Real-World Applications With Large Language Models by Udacity](https://www.udacity.com/course/building-real-world-applications-with-large-language-models--cd13455)      ![10%](https://progress-bar.dev/10)
