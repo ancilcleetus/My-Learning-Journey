@@ -109,6 +109,7 @@
                 1. [LangChain 101](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro/01_LangChain_101.ipynb) ![100%](https://progress-bar.dev/100)
             2. [Large Language Models and LangChain](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain) ![10%](https://progress-bar.dev/10)
                 1. [Quick Intro to LLMs](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/01_Quick_Intro_to_LLMs.ipynb) ![100%](https://progress-bar.dev/100)
+                2. [Understanding Tokens](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/02_Understanding_Tokens.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://progress-bar.dev/10)
 11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
