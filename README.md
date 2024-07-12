@@ -4,8 +4,8 @@
 ## Status:
 
 1. [Python](/Python) ![10%](https://progress-bar.dev/10)
-    1. [Python Foundations](/Python/01-Python-Foundations) ![10%](https://progress-bar.dev/10)
-        1. [Python Fundamentals](/Python/01-Python-Foundations/Python_01_Fundamentals.ipynb) ![50%](https://progress-bar.dev/50)
+    1. [Python Foundations](Python/01-Python-Foundations) ![10%](https://progress-bar.dev/10)
+        1. [Python Fundamentals](Python/01-Python-Foundations/Python_01_Fundamentals.ipynb) ![50%](https://progress-bar.dev/50)
     2. Python Projects ![10%](https://progress-bar.dev/10)
 2. Maths                        ![10%](https://progress-bar.dev/10)
     1. Statistics               ![10%](https://progress-bar.dev/10)
