@@ -116,6 +116,7 @@
                 6. [News Articles Summarizer](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/06_News_Articles_Summarizer.ipynb) ![100%](https://progress-bar.dev/100)
                 7. [Open Source GPT4All Model](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/07_Open_Source_GPT4All_Model.ipynb) ![100%](https://progress-bar.dev/100)
                 8. [Popular LLMs in LangChain](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/08_Popular_LLMs_in_LangChain.ipynb) ![100%](https://progress-bar.dev/100)
+            3. [Learning How to Prompt](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt) ![10%](https://progress-bar.dev/10)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![100%](https://progress-bar.dev/100)
 11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
