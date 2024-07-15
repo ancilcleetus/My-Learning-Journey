@@ -118,7 +118,7 @@
                 8. [Popular LLMs in LangChain](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/08_Popular_LLMs_in_LangChain.ipynb) ![100%](https://progress-bar.dev/100)
             3. [Learning How to Prompt](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt) ![10%](https://progress-bar.dev/10)
                 1. [Intro to Prompt Engineering](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/01_Intro_to_Prompt_Engineering.ipynb) ![10%](https://progress-bar.dev/10)
-    2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![100%](https://progress-bar.dev/100)
+    2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://progress-bar.dev/10)
 11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
         1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/) ![10%](https://progress-bar.dev/10)
