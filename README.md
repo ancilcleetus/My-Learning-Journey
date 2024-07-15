@@ -115,7 +115,7 @@
                 5. [Conversational Capabilities with GPT-4 and ChatGPT](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/05_Conversational_Capabilities_GPT4_and_ChatGPT.ipynb) ![100%](https://progress-bar.dev/100)
                 6. [News Articles Summarizer](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/06_News_Articles_Summarizer.ipynb) ![100%](https://progress-bar.dev/100)
                 7. [Open Source GPT4All Model](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/07_Open_Source_GPT4All_Model.ipynb) ![100%](https://progress-bar.dev/100)
-                8. [Popular LLMs Compared](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/08_Popular_LLMs_Compared.ipynb) ![10%](https://progress-bar.dev/10)
+                8. [Popular LLMs in LangChain](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain/08_Popular_LLMs_in_LangChain.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://progress-bar.dev/10)
 11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
