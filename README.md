@@ -119,7 +119,7 @@
             3. [Learning How to Prompt](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt) ![10%](https://progress-bar.dev/10)
                 1. [Intro to Prompt Engineering](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/01_Intro_to_Prompt_Engineering.ipynb) ![100%](https://progress-bar.dev/100)
                 2. [Using Prompt Templates](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/02_Using_Prompt_Templates.ipynb) ![100%](https://progress-bar.dev/100)
-                3. [Getting the Best of Few Shot Prompts and Example Selectors](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/03_FewShotPrompts_ExampleSelectors.ipynb) ![10%](https://progress-bar.dev/10)
+                3. [Getting the Best of Few Shot Prompts and Example Selectors](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/03_FewShotPrompts_ExampleSelectors.ipynb) ![100%](https://progress-bar.dev/100)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://progress-bar.dev/10)
 11. Multimodal AI
     1. Multimodal AI Foundations ![10%](https://progress-bar.dev/10)
