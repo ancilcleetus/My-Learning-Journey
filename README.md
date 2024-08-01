@@ -95,6 +95,7 @@
         5. [ResNet Model](Computer-Vision/01-Computer-Vision-Foundations/CV_05_ResNet_Model.ipynb) ![70%](https://progress-bar.dev/70)
         6. [Evolution of Image Classification Architectures](Computer-Vision/01-Computer-Vision-Foundations/CV_06_Evolution_of_Image_Classification_Architectures.ipynb) ![100%](https://progress-bar.dev/100)
         7. [Intro to Object Detection](Computer-Vision/01-Computer-Vision-Foundations/CV_07_Intro_to_Object_Detection.ipynb) ![100%](https://progress-bar.dev/100)
+        8. [RCNN Model](Computer-Vision/01-Computer-Vision-Foundations/CV_08_RCNN.ipynb) ![10%](https://progress-bar.dev/10)
         99. [Interview Questions on CNNs](Computer-Vision/01-Computer-Vision-Foundations/CV_XX_Interview_Questions_on_CNNs.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Computer Vision Projects](Computer-Vision/02-Computer-Vision-Projects) ![10%](https://progress-bar.dev/10)
         1. [EmotionScope](Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) ![100%](https://progress-bar.dev/100)
