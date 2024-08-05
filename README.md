@@ -88,6 +88,7 @@
     2. DL Projects              ![10%](https://progress-bar.dev/10)
 7. [CV (Computer Vision)](Computer-Vision) ![10%](https://progress-bar.dev/10)
     1. [Computer Vision Foundations](Computer-Vision/01-Computer-Vision-Foundations) ![10%](https://progress-bar.dev/10)
+        1. [Intro to OpenCV](Computer-Vision/01-Computer-Vision-Foundations/CV_A1_Intro_to_OpenCV.ipynb) ![10%](https://progress-bar.dev/10)
         1. [Intro to CNNs](Computer-Vision/01-Computer-Vision-Foundations/CV_01_Intro_to_CNNs.ipynb) ![100%](https://progress-bar.dev/100)
         2. [Cats Vs Dogs Image Classifier from scratch using Keras](Computer-Vision/01-Computer-Vision-Foundations/CV_02_Cats_Dogs_Classifier_from_Scratch_Keras.ipynb) ![100%](https://progress-bar.dev/100)
         3. [Transfer Learning and Fine-tuning](Computer-Vision/01-Computer-Vision-Foundations/CV_03_Transfer_Learning.ipynb) ![100%](https://progress-bar.dev/100)
