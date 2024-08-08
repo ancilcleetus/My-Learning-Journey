@@ -92,7 +92,7 @@
         2. [Intro to CNNs](Computer-Vision/01-Computer-Vision-Foundations/CV_01_Intro_to_CNNs.ipynb) ![100%](https://progress-bar.dev/100)
         3. [Cats Vs Dogs Image Classifier from scratch using Keras](Computer-Vision/01-Computer-Vision-Foundations/CV_02_Cats_Dogs_Classifier_from_Scratch_Keras.ipynb) ![100%](https://progress-bar.dev/100)
         4. [Transfer Learning and Fine-tuning](Computer-Vision/01-Computer-Vision-Foundations/CV_03_Transfer_Learning.ipynb) ![100%](https://progress-bar.dev/100)
-        5. [VGG16 Model](Computer-Vision/01-Computer-Vision-Foundations/CV_04_VGG16_Model.ipynb) ![80%](https://progress-bar.dev/80)
+        5. [VGG16 Model](Computer-Vision/01-Computer-Vision-Foundations/CV_05_ResNet_Model.ipynb) ![70%](https://progress-bar.dev/70)
         6. [ResNet Model](Computer-Vision/01-Computer-Vision-Foundations/CV_05_ResNet_Model.ipynb) ![70%](https://progress-bar.dev/70)
         7. [Evolution of Image Classification Architectures](Computer-Vision/01-Computer-Vision-Foundations/CV_06_Evolution_of_Image_Classification_Architectures.ipynb) ![100%](https://progress-bar.dev/100)
         8. [Intro to Object Detection](Computer-Vision/01-Computer-Vision-Foundations/CV_07_Intro_to_Object_Detection.ipynb) ![100%](https://progress-bar.dev/100)
