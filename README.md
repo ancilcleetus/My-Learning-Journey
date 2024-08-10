@@ -101,6 +101,7 @@
         11. [Fast RCNN Model](Computer-Vision/01-Computer-Vision-Foundations/CV_10_Fast_RCNN.ipynb) ![10%](https://progress-bar.dev/10)
         12. [Intro to OCR](Computer-Vision/01-Computer-Vision-Foundations/CV_A2_Intro_to_OCR.ipynb) ![100%](https://progress-bar.dev/100)
         13. [Intro to CRNNs](Computer-Vision/01-Computer-Vision-Foundations/CV_A3_Intro_to_CRNNs.ipynb) ![100%](https://progress-bar.dev/100)
+        14. [Intro to CTC (Connectionist Temporal Classification)](Computer-Vision/01-Computer-Vision-Foundations/CV_A4_Intro_to_CTC.ipynb) ![10%](https://progress-bar.dev/10)
         99. [Interview Questions on CNNs](Computer-Vision/01-Computer-Vision-Foundations/CV_XX_Interview_Questions_on_CNNs.ipynb) ![10%](https://progress-bar.dev/10)
     2. [Computer Vision Projects](Computer-Vision/02-Computer-Vision-Projects) ![10%](https://progress-bar.dev/10)
         1. [EmotionScope](Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) ![100%](https://progress-bar.dev/100)
