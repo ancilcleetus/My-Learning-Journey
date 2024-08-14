@@ -167,6 +167,8 @@
     9. [Build Real-World Applications by CodeCrafters](https://codecrafters.io/)
     10. [System Design Newsletter by Neo Kim](https://newsletter.systemdesign.one/)
     11. [Byte-Sized Design Newsletter](https://bytesizeddesign.substack.com/)
+19. [Interview Preparation](Interview-Preparation) ![10%](https://progress-bar.dev/10)
+    1. [Data Science Interview Preparation Course by CampusX](Interview-Preparation/DSIP-CampusX) ![10%](https://progress-bar.dev/10)
 19. Additional Maths        ![10%](https://progress-bar.dev/10)
 20. Additional Tools        ![10%](https://progress-bar.dev/10)
 21. Additional Databases    ![10%](https://progress-bar.dev/10)
