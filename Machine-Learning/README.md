@@ -10,9 +10,9 @@
 
 ## Status:
 
-1. Machine Learning Foundations ![10%](https://progress-bar.dev/10)
-    1. Intro to Machine Learning ![10%](https://progress-bar.dev/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-Machine-Learning-Foundations/ML_01_Intro.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb)
+1. Machine Learning Foundations ![10%](https://geps.dev/progress/10)
+    1. Intro to Machine Learning ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-Machine-Learning-Foundations/ML_01_Intro.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb)
     
-2. Machine Learning Projects ![10%](https://progress-bar.dev/10)
+2. Machine Learning Projects ![10%](https://geps.dev/progress/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
