@@ -152,7 +152,7 @@
         3. [Intro to Data Structures](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_03_Intro_to_Datastructures.ipynb) ![100%](https://geps.dev/progress/100)
         4. [Arrays](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_04_Arrays.ipynb) ![100%](https://geps.dev/progress/100)
         5. [Linked Lists](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_05_Linked_Lists.ipynb) ![100%](https://geps.dev/progress/100)
-        6. [Stacks](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_06_Stacks.ipynb) ![60%](https://geps.dev/progress/60)
+        6. [Stacks](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_06_Stacks.ipynb) ![80%](https://geps.dev/progress/80)
     2. [DSA Challenges](Data-Structures-and-Algorithms/02-DSA-Challenges) ![10%](https://geps.dev/progress/10)
         1. [Arrays and Hashing](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_01_Arrays_and_Hashing.ipynb) ![50%](https://geps.dev/progress/50)
         2. [Linked Lists](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_02_Linked_Lists.ipynb) ![50%](https://geps.dev/progress/50)
