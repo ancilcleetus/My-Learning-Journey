@@ -156,6 +156,7 @@
     2. [DSA Challenges](Data-Structures-and-Algorithms/02-DSA-Challenges) ![10%](https://geps.dev/progress/10)
         1. [Arrays and Hashing](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_01_Arrays_and_Hashing.ipynb) ![50%](https://geps.dev/progress/50)
         2. [Linked Lists](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_02_Linked_Lists.ipynb) ![50%](https://geps.dev/progress/50)
+        3. [Stacks](Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_03_Stacks.ipynb) ![10%](https://geps.dev/progress/10)
 17. [Low Level Design](Low-Level-Design) ![10%](https://geps.dev/progress/10)
     1. [LLD Foundations](Low-Level-Design/01-LLD-Foundations) ![10%](https://geps.dev/progress/10)
         1. [OOP (Object Oriented Programming)](Low-Level-Design/01-LLD-Foundations/LLD_01_OOP_in_Python.ipynb) ![100%](https://geps.dev/progress/100)
