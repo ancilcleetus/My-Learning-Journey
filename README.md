@@ -26,7 +26,7 @@
 4. [Machine Learning](Machine-Learning) ![10%](https://geps.dev/progress/10)
     1. [Machine Learning Foundations](Machine-Learning/01-Machine-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to Machine Learning](Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
-        2. [Supervised Learning](Machine-Learning/01-Machine-Learning-Foundations/ML_02_Supervised_Learning.ipynb) ![10%](https://geps.dev/progress/10)
+        2. [Supervised Learning](Machine-Learning/01-Machine-Learning-Foundations/ML_02_Supervised_Learning.ipynb) ![100%](https://geps.dev/progress/100)
         2. ML Algorithms            ![10%](https://geps.dev/progress/10)
             1. Supervised ML        ![10%](https://geps.dev/progress/10)
                 - Linear Models        ![10%](https://geps.dev/progress/10)
