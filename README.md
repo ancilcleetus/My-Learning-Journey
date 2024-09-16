@@ -40,9 +40,9 @@
 6. [High Level Design (HLD)]((High-Level-Design)) ![10%](https://geps.dev/progress/10)
     1. [HLD Foundations](High-Level-Design/01-HLD-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [System Design Fundamentals by System Design School](https://systemdesignschool.io/fundamentals/what-is-system-design-interview)   ![10%](https://geps.dev/progress/10)
-            2. [Domain Knowledge by System Design School](https://systemdesignschool.io/courses/domain-knowledge)   ![10%](https://geps.dev/progress/10)
-            3. [System Design Interview](https://bytebytego.com/)
+            1. [ByteByteGo System Design Interview Course](https://bytebytego.com/)
+            2. [System Design Fundamentals by System Design School](https://systemdesignschool.io/fundamentals/what-is-system-design-interview)
+            3. [Domain Knowledge by System Design School](https://systemdesignschool.io/courses/domain-knowledge)
             4. [Machine Learning System Design Interview](https://bytebytego.com/intro/machine-learning-system-design-interview)
             5. [System Design Newsletter by Neo Kim](https://newsletter.systemdesign.one/)
             6. [Byte-Sized Design Newsletter](https://bytesizeddesign.substack.com/)
