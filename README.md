@@ -194,7 +194,7 @@
 15. [Multimodal AI](Multimodal-AI) ![10%](https://geps.dev/progress/10)
     1. [Multimodal AI Foundations](Multimodal-AI/01-Multimodal-AI-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/) ![10%](https://geps.dev/progress/10)
+            1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/)
     2. [Multimodal AI Projects](Multimodal-AI/02-Multimodal-AI-Projects) ![10%](https://geps.dev/progress/10)
 16. [AI Agents](AI-Agents) ![10%](https://geps.dev/progress/10)
     1. [AI Agents - Foundations](AI-Agents/01-AI-Agents-Foundations) ![10%](https://geps.dev/progress/10)
@@ -202,7 +202,7 @@
 17. [Edge AI and TinyML](EdgeAI-TinyML) ![10%](https://geps.dev/progress/10)
     1. [Edge AI and TinyML - Foundations](EdgeAI-TinyML/01-EdgeAI-TinyML-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [TinyML and Efficient Deep Learning Computing Course](https://hanlab.mit.edu/course) ![10%](https://geps.dev/progress/10)
+            1. [TinyML and Efficient Deep Learning Computing Course](https://hanlab.mit.edu/course)
     2. [Edge AI and TinyML - Projects](EdgeAI-TinyML/02-EdgeAI-TinyML-Projects) ![10%](https://geps.dev/progress/10)
 18. [Deep Reinforcement Learning (Deep RL)](Deep-Reinforcement-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep RL - Foundations](Deep-RL/01-Deep-RL-Foundations) ![10%](https://geps.dev/progress/10)
@@ -222,8 +222,8 @@
 24. [Quantum Machine Learning](Quantum-ML) ![10%](https://geps.dev/progress/10)
     1. [Quantum Machine Learning Foundations](Quantum-ML/01-Quantum-ML-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [IBM Quantum Learning](https://learning.quantum.ibm.com/catalog/courses) ![10%](https://geps.dev/progress/10)
-            2. [Quantum Machine Learning with IBM Quantum](https://open.hpi.de/courses/qc-machineLearning2023) ![10%](https://geps.dev/progress/10)
+            1. [IBM Quantum Learning](https://learning.quantum.ibm.com/catalog/courses)
+            2. [Quantum Machine Learning with IBM Quantum](https://open.hpi.de/courses/qc-machineLearning2023)
     2. [Quantum Machine Learning Projects](Quantum-ML/02-Quantum-ML-Projects) ![10%](https://geps.dev/progress/10)
 25. Artificial General Intelligence (AGI) ![10%](https://geps.dev/progress/10)
     1. Decision Intelligence ![10%](https://geps.dev/progress/10)
