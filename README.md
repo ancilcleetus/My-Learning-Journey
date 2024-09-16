@@ -85,6 +85,7 @@
         1. [Intro to Machine Learning](Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Supervised Learning](Machine-Learning/01-Machine-Learning-Foundations/ML_02_Supervised_Learning.ipynb) ![100%](https://geps.dev/progress/100)
         3. [Linear Regression](Machine-Learning/01-Machine-Learning-Foundations/ML_03_Linear_Regression.ipynb) ![10%](https://geps.dev/progress/10)
+        4. [Gradient Descent](Machine-Learning/01-Machine-Learning-Foundations/ML_04_Gradient_Descent.ipynb) ![10%](https://geps.dev/progress/10)
         3. Topics to be covered
             1. ML Algorithms ![10%](https://geps.dev/progress/10)
                 1. Supervised ML ![10%](https://geps.dev/progress/10)
