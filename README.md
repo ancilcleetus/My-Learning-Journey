@@ -5,14 +5,16 @@
 
 
 1. [Bash (Bourne Again Shell)](Bash) ![10%](https://geps.dev/progress/10)
-    1. References
-        1. [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
-        2. [Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
-        3. [Learn Shell](https://www.learnshell.org/)
+    1. [Bash Foundations](Bash/01-Bash-Foundations) ![10%](https://geps.dev/progress/10)
+        1. References
+            1. [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
+            2. [Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+            3. [Learn Shell](https://www.learnshell.org/)
+    2. [Bash Projects](Bash/02-Bash-Projects) ![10%](https://geps.dev/progress/10)
 2. [Python](Python) ![10%](https://geps.dev/progress/10)
     1. [Python Foundations](Python/01-Python-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Python Fundamentals](Python/01-Python-Foundations/Python_01_Fundamentals.ipynb) ![50%](https://geps.dev/progress/50)
-    2. Python Projects ![10%](https://geps.dev/progress/10)
+    2. [Python Projects](Python/02-Python-Projects) ![10%](https://geps.dev/progress/10)
 3. [Maths](Maths) ![10%](https://geps.dev/progress/10)
     1. [Statistics](Maths/Statistics) ![10%](https://geps.dev/progress/10)
     2. [Probability Theory](Maths/Probability-Theory) ![10%](https://geps.dev/progress/10)
@@ -156,15 +158,15 @@
                 6. [Knowledge Graphs from Textual Data](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/06_Knowledge_Graphs.ipynb) ![100%](https://geps.dev/progress/100)
             4. [Keeping Knowledge Organized with Indexes](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/04-Keeping-Knowledge-Organized-with-Indexes) ![10%](https://geps.dev/progress/10)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://geps.dev/progress/10)
-12. Multimodal AI
+12. [Multimodal AI](Multimodal-AI) ![10%](https://geps.dev/progress/10)
     1. [Multimodal AI Foundations](Multimodal-AI/01-Multimodal-AI-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
             1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/) ![10%](https://geps.dev/progress/10)
     2. [Multimodal AI Projects](Multimodal-AI/02-Multimodal-AI-Projects) ![10%](https://geps.dev/progress/10)
-13. AI Agents
+13. [AI Agents](AI-Agents) ![10%](https://geps.dev/progress/10)
     1. [AI Agents - Foundations](AI-Agents/01-AI-Agents-Foundations) ![10%](https://geps.dev/progress/10)
     2. [AI Agents - Projects](AI-Agents/02-AI-Agents-Projects) ![10%](https://geps.dev/progress/10)
-14. Edge AI and TinyML ![10%](https://geps.dev/progress/10)
+14. [Edge AI and TinyML](EdgeAI-TinyML) ![10%](https://geps.dev/progress/10)
     1. [Edge AI and TinyML - Foundations](EdgeAI-TinyML/01-EdgeAI-TinyML-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
             1. [TinyML and Efficient Deep Learning Computing Course](https://hanlab.mit.edu/course) ![10%](https://geps.dev/progress/10)
@@ -172,7 +174,7 @@
 15. [Deep Reinforcement Learning (Deep RL)](Deep-Reinforcement-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep RL - Foundations](Deep-RL/01-Deep-RL-Foundations) ![10%](https://geps.dev/progress/10)
     2. [Deep RL - Projects](Deep-RL/02-Deep-RL-Projects) ![10%](https://geps.dev/progress/10)
-16. Self-Supervised Learning (SSL) ![10%](https://geps.dev/progress/10)
+16. [Self-Supervised Learning (SSL)](SSL) ![10%](https://geps.dev/progress/10)
     1. [SSL - Foundations](SSL/01-SSL-Foundations) ![10%](https://geps.dev/progress/10)
     2. [SSL - Projects](SSL/02-SSL-Projects) ![10%](https://geps.dev/progress/10)
 17. [Data Structures and Algorithms (DSA)](Data-Structures-and-Algorithms) ![10%](https://geps.dev/progress/10)
@@ -212,6 +214,11 @@
 21. Additional Tools ![10%](https://geps.dev/progress/10)
 22. Additional Databases ![10%](https://geps.dev/progress/10)
 23. Additional Programming Languages ![10%](https://geps.dev/progress/10)
+    1. Java ![10%](https://geps.dev/progress/10)
+    2. TypeScript ![10%](https://geps.dev/progress/10)
+    3. Rust ![10%](https://geps.dev/progress/10)
+    4. Haskell ![10%](https://geps.dev/progress/10)
+    5. Mojo ![10%](https://geps.dev/progress/10)
 24. [Quantum Machine Learning](Quantum-ML) ![10%](https://geps.dev/progress/10)
     1. [Quantum Machine Learning Foundations](Quantum-ML/01-Quantum-ML-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
