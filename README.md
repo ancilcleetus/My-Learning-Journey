@@ -85,7 +85,7 @@
             3. Gradient Descent     ![10%](https://geps.dev/progress/10)
             4. Optimizers           ![10%](https://geps.dev/progress/10)
     2. DL Projects              ![10%](https://geps.dev/progress/10)
-        1. [Customer Churn Prediction using ANN](Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) ![70%](https://geps.dev/progress/70)
+        1. [Customer Churn Prediction using ANN](Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
 7. [CV (Computer Vision)](Computer-Vision) ![10%](https://geps.dev/progress/10)
     1. [Computer Vision Foundations](Computer-Vision/01-Computer-Vision-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to OpenCV](Computer-Vision/01-Computer-Vision-Foundations/CV_A1_Intro_to_OpenCV.ipynb) ![100%](https://geps.dev/progress/100)
