@@ -104,7 +104,7 @@
         14. [Intro to CTC (Connectionist Temporal Classification)](Computer-Vision/01-Computer-Vision-Foundations/CV_A4_Intro_to_CTC.ipynb) ![10%](https://geps.dev/progress/10)
         15. [Text Recognition With CRNN-CTC Network](Computer-Vision/01-Computer-Vision-Foundations/CV_A5_Text_Recognition_with_CRNN_CTC_Network.ipynb) ![10%](https://geps.dev/progress/10)
     2. [Computer Vision Projects](Computer-Vision/02-Computer-Vision-Projects) ![10%](https://geps.dev/progress/10)
-        1. [EmotionScope](Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) ![100%](https://geps.dev/progress/100)
+        1. [EmotionScope: Emotion Classifier using Keras](Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) ![100%](https://geps.dev/progress/100)
 8. NLP (Natural Language Processing) ![10%](https://geps.dev/progress/10)
     1. NLP Foundations       ![10%](https://geps.dev/progress/10)
     2. NLP Projects         ![10%](https://geps.dev/progress/10)
