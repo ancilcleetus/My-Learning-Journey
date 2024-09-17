@@ -73,6 +73,8 @@
             2. [Beautiful Chart Examples](https://www.dataviz-inspiration.com/)
     5. [Exploratory Data Analysis (EDA)](Tools-Libraries/EDA) ![10%](https://geps.dev/progress/10)
     6. [OpenCV](Tools-Libraries/OpenCV) ![10%](https://geps.dev/progress/10)
+        1. References
+            1. [TowardsMachineLearning.org Live Session](https://www.youtube.com/watch?v=XKJzXg0LC9I&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=11&pp=iAQB)
     7. [Scikit-Learn](Tools-Libraries/Scikit-Learn) ![10%](https://geps.dev/progress/10)
     8. [Keras](Tools-Libraries/Keras) ![10%](https://geps.dev/progress/10)
     9. [TensorFlow](Tools-Libraries/TensorFlow) ![10%](https://geps.dev/progress/10)
@@ -127,7 +129,10 @@
             - Amazon AWS ![10%](https://geps.dev/progress/10)
             - Google GCP ![10%](https://geps.dev/progress/10)
             - Microsoft Azure ![10%](https://geps.dev/progress/10)
-    3. [MLOps Projects](MLOps/03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
+    3. References
+        1. [TowardsMachineLearning.org Live Session 1](https://www.youtube.com/watch?v=3KnYnx-kw3g&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=6)
+        1. [TowardsMachineLearning.org Live Session 2](https://www.youtube.com/watch?v=9V05uHDBgdo&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=4)
+    4. [MLOps Projects](MLOps/03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
 10. [Deep Learning](Deep-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep Learning Foundations](Deep-Learning/01-Deep-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to Deep Learning](Deep-Learning/01-Deep-Learning-Foundations/DL_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
