@@ -113,6 +113,7 @@
                 3. Handling of Data Leakage ![10%](https://geps.dev/progress/10)
                 4. Handling of Imbalanced Classes ![10%](https://geps.dev/progress/10)
     2. [Machine Learning Projects](Machine-Learning/02-Machine-Learning-Projects) ![10%](https://geps.dev/progress/10)
+        1. [Chicago Cab Fare Predictor using Linear Regression](Machine-Learning/02-Machine-Learning-Projects/ML_Project_01_Chicago_Cab_Fare_Predictor.ipynb) ![10%](https://geps.dev/progress/10)
 9. [MLOps](MLOps) ![10%](https://geps.dev/progress/10)
     1. [MLOps Foundations](MLOps/01-MLOps-Foundations) ![10%](https://geps.dev/progress/10)
         1. Version Control ![10%](https://geps.dev/progress/10)
