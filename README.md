@@ -36,9 +36,9 @@
         3. [Stacks](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Data-Structures-and-Algorithms/02-DSA-Challenges/DSA_Challenges_03_Stacks.ipynb) ![10%](https://geps.dev/progress/10)
 5. [Low Level Design (LLD)](Low-Level-Design) ![10%](https://geps.dev/progress/10)
     1. [LLD Foundations](Low-Level-Design/01-LLD-Foundations) ![10%](https://geps.dev/progress/10)
-        1. [OOP (Object Oriented Programming)](Low-Level-Design/01-LLD-Foundations/LLD_01_OOP_in_Python.ipynb) ![100%](https://geps.dev/progress/100)
+        1. [OOP (Object Oriented Programming)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Low-Level-Design/01-LLD-Foundations/LLD_01_OOP_in_Python.ipynb) ![100%](https://geps.dev/progress/100)
     2. [LLD Challenges](Low-Level-Design/02-LLD-Challenges) ![10%](https://geps.dev/progress/10)
-        1. [RailwayMate OOP Project](Low-Level-Design/02-LLD-Challenges/LLD_Challenges_01_RailwayMate_OOP_Project.ipynb) ![10%](https://geps.dev/progress/10)
+        1. [RailwayMate OOP Project](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Low-Level-Design/02-LLD-Challenges/LLD_Challenges_01_RailwayMate_OOP_Project.ipynb) ![10%](https://geps.dev/progress/10)
 6. [High Level Design (HLD)]((High-Level-Design)) ![10%](https://geps.dev/progress/10)
     1. [HLD Foundations](High-Level-Design/01-HLD-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
