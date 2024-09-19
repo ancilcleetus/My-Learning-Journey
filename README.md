@@ -141,7 +141,7 @@
         1. [Intro to Deep Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Perceptrons](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_02_Perceptrons.ipynb) ![100%](https://geps.dev/progress/100)
         3. [Multi-Layer Perceptrons](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_03_Multi_Layer_Perceptrons.ipynb) ![100%](https://geps.dev/progress/100)
-        4. [Forward Propagation](Deep-Learning/01-Deep-Learning-Foundations/DL_04_Forward_Propagation.ipynb) ![100%](https://geps.dev/progress/100)
+        4. [Forward Propagation](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_04_Forward_Propagation.ipynb) ![100%](https://geps.dev/progress/100)
         5. Topics to be covered
             1. ANN ![10%](https://geps.dev/progress/10)
             2. CNN ![10%](https://geps.dev/progress/10)
