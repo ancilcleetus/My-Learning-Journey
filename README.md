@@ -37,6 +37,8 @@
     3. [Strivers A2Z DSA Course](Data-Structures-and-Algorithms/03-Strivers-A2Z-DSA-Course) ![10%](https://geps.dev/progress/10)
         1. [Step 01: Learn the Basics](Data-Structures-and-Algorithms/03-Strivers-A2Z-DSA-Course/Step-01-Learn-the-Basics) ![10%](https://geps.dev/progress/10)
             1. [Lec 01: Things to Know in Any Language](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Data-Structures-and-Algorithms/03-Strivers-A2Z-DSA-Course/Step-01-Learn-the-Basics/Lec_01_Things_to_Know_in_Any_Language.ipynb) ![10%](https://geps.dev/progress/10)
+    4. [Strivers SDE Sheet](Data-Structures-and-Algorithms/04-Strivers-SDE-Sheet) ![10%](https://geps.dev/progress/10)
+        1. [Day 01: Arrays](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Data-Structures-and-Algorithms/04-Strivers-SDE-Sheet/Day_01_Arrays.ipynb) ![10%](https://geps.dev/progress/10)
 5. [Low Level Design (LLD)](Low-Level-Design) ![10%](https://geps.dev/progress/10)
     1. [LLD Foundations](Low-Level-Design/01-LLD-Foundations) ![10%](https://geps.dev/progress/10)
         1. [OOP (Object Oriented Programming)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Low-Level-Design/01-LLD-Foundations/LLD_01_OOP_in_Python.ipynb) ![100%](https://geps.dev/progress/100)
