@@ -1,6 +1,6 @@
 # MLOps
 
-# ![MLOps](data/images/MLOps-01.jpg)
+# ![MLOps](data/images/MLOps-01.gif)
 
 > **`Note 1`**: Use ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) (recommended) in order to view the jupyter notebooks (nbviewer loads the notebook really fast compared to GitHub). You can see all the codes and the outputs in nbviwer without running the whole code again.
 
