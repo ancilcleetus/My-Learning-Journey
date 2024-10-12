@@ -128,6 +128,7 @@
             1. DVC ![10%](https://geps.dev/progress/10)
         3. Experiment Tracking ![10%](https://geps.dev/progress/10)
             1. MLflow ![10%](https://geps.dev/progress/10)
+                1. [Intro to MLflow](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/MLflow/Intro_to_MLflow.ipynb) ![10%](https://geps.dev/progress/10)
             2. Kubeflow ![10%](https://geps.dev/progress/10)
             3. ZenML ![10%](https://geps.dev/progress/10)
         4. CI/CD ![10%](https://geps.dev/progress/10)
@@ -153,7 +154,6 @@
     2. References
         1. [TowardsMachineLearning.org Live Session 1](https://www.youtube.com/watch?v=3KnYnx-kw3g&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=6)
         1. [TowardsMachineLearning.org Live Session 2](https://www.youtube.com/watch?v=9V05uHDBgdo&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=4)
-    3. [MLOps Projects](MLOps/03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
 10. [Deep Learning](Deep-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep Learning Foundations](Deep-Learning/01-Deep-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to Deep Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
