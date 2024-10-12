@@ -123,7 +123,7 @@
 9. [MLOps](MLOps) ![10%](https://geps.dev/progress/10)
     1. [MLOps Foundations](MLOps/01-MLOps-Foundations) ![10%](https://geps.dev/progress/10)
         1. Code Version Control ![10%](https://geps.dev/progress/10)
-            1. GitHub ![10%](https://geps.dev/progress/10)
+            1. Git ![10%](https://geps.dev/progress/10)
         2. Data Version Control ![10%](https://geps.dev/progress/10)
             1. DVC ![10%](https://geps.dev/progress/10)
         3. Experiment Tracking ![10%](https://geps.dev/progress/10)
