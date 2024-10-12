@@ -88,7 +88,6 @@
     10. [PyTorch](Tools-Libraries/PyTorch) ![10%](https://geps.dev/progress/10)
         1. [PyTorch Tensors](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries/PyTorch/01-PyTorch-Foundations/PyTorch_01_Tensors.ipynb) ![100%](https://geps.dev/progress/100)
         2. [PyTorch Computational Graphs](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries/PyTorch/01-PyTorch-Foundations/PyTorch_02_Computational_Graphs.ipynb) ![10%](https://geps.dev/progress/10)
-    11. [Docker](Tools-Libraries/Docker) ![10%](https://geps.dev/progress/10)
 8. [Machine Learning](Machine-Learning) ![10%](https://geps.dev/progress/10)
     1. [Machine Learning Foundations](Machine-Learning/01-Machine-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/ML_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
@@ -138,6 +137,7 @@
             - Amazon AWS ![10%](https://geps.dev/progress/10)
             - Google GCP ![10%](https://geps.dev/progress/10)
             - Microsoft Azure ![10%](https://geps.dev/progress/10)
+        6. Docker ![10%](https://geps.dev/progress/10)
     3. References
         1. [TowardsMachineLearning.org Live Session 1](https://www.youtube.com/watch?v=3KnYnx-kw3g&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=6)
         1. [TowardsMachineLearning.org Live Session 2](https://www.youtube.com/watch?v=9V05uHDBgdo&list=PLgjjUkRKD-t8RzrPcMfn-G6wx1pgkhWnJ&index=4)
