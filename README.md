@@ -128,7 +128,7 @@
             1. DVC ![10%](https://geps.dev/progress/10)
         3. Experiment Tracking ![10%](https://geps.dev/progress/10)
             1. MLflow ![10%](https://geps.dev/progress/10)
-                1. [Intro to MLflow](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/MLflow/Intro_to_MLflow.ipynb) ![10%](https://geps.dev/progress/10)
+                1. [Intro to MLflow](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/MLflow/Intro_to_MLflow.ipynb) ![100%](https://geps.dev/progress/100)
             2. Kubeflow ![10%](https://geps.dev/progress/10)
             3. ZenML ![10%](https://geps.dev/progress/10)
         4. CI/CD ![10%](https://geps.dev/progress/10)
