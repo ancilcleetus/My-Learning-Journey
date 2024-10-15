@@ -12,7 +12,7 @@
 
 ## Status:
 
-1. MLOps Foundations ![10%](https://geps.dev/progress/10)
+1. [MLOps Foundations](01-MLOps-Foundations) ![10%](https://geps.dev/progress/10)
     1. [Code Version Control](01-MLOps-Foundations/Code-Version-Control) ![10%](https://geps.dev/progress/10)
         1. [Git](01-MLOps-Foundations/Code-Version-Control/Git) ![10%](https://geps.dev/progress/10)
             1. Intro to Git ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-MLOps-Foundations/Code-Version-Control/Git/Intro_to_Git.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Code-Version-Control/Git/Intro_to_Git.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Code-Version-Control/Git/Intro_to_Git.ipynb)
@@ -26,6 +26,9 @@
             1. Intro to Kubeflow ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-MLOps-Foundations/Experiment-Tracking/Kubeflow/Intro_to_Kubeflow.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/Kubeflow/Intro_to_Kubeflow.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/Kubeflow/Intro_to_Kubeflow.ipynb)
         3. [ZenML](01-MLOps-Foundations/Experiment-Tracking/ZenML) ![10%](https://geps.dev/progress/10)
             1. Intro to ZenML ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb)
+2. [Made With ML Course](02-Made-With-ML-Course) ![10%](https://geps.dev/progress/10)
+3. [MLOps Projects](03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
+    1. [TextSense: End-to-End LLM Text Classifier](03-MLOps-Projects/MLOps_Project_01_TextSense) ![10%](https://geps.dev/progress/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
