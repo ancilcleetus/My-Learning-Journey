@@ -172,7 +172,7 @@
     2. [Deep Learning Projects](Deep-Learning/02-Deep-Learning-Projects) ![10%](https://geps.dev/progress/10)
         1. [Customer Churn Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Handwritten Digit Classification using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_02_Handwritten_Digit_Classification_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
-        3. [Graduate Admission Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_03_Graduate_Admission_Prediction_using_ANN.ipynb) ![10%](https://geps.dev/progress/10)
+        3. [Graduate Admission Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_03_Graduate_Admission_Prediction_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
 11. [Computer Vision (CV)](Computer-Vision) ![10%](https://geps.dev/progress/10)
     1. [Computer Vision Foundations](Computer-Vision/01-Computer-Vision-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to OpenCV](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/01-Computer-Vision-Foundations/CV_A1_Intro_to_OpenCV.ipynb) ![100%](https://geps.dev/progress/100)
