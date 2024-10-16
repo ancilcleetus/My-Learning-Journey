@@ -196,7 +196,7 @@
 12. [Natural Language Processing (NLP)](NLP) ![10%](https://geps.dev/progress/10)
     1. [NLP Foundations](NLP/01-NLP-Foundations) ![10%](https://geps.dev/progress/10)
     2. [NLP Projects](NLP/02-NLP-Projects) ![10%](https://geps.dev/progress/10)
-        1. [BERTicle: News Article Classifier using BERT](NLP/02-NLP-Projects/NLP_Project_01_BERTicle) ![10%](https://geps.dev/progress/10) ![10%](https://geps.dev/progress/10)
+        1. [BERTicle: News Article Classifier using BERT](NLP/02-NLP-Projects/NLP_Project_01_BERTicle) ![10%](https://geps.dev/progress/10)
 13. [Deep Learning for Audio](Audio-Deep-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep Learning for Audio - Foundations](Audio-Deep-Learning/01-Audio-DL-Foundations) ![10%](https://geps.dev/progress/10)
     2. [Deep Learning for Audio - Projects](Audio-Deep-Learning/02-Audio-DL-Projects) ![10%](https://geps.dev/progress/10)
