@@ -131,6 +131,7 @@
                 1. [Intro to MLflow](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/MLflow/Intro_to_MLflow.ipynb) ![100%](https://geps.dev/progress/100)
             2. Kubeflow ![10%](https://geps.dev/progress/10)
             3. ZenML ![10%](https://geps.dev/progress/10)
+            4. Weights & Biases ![10%](https://geps.dev/progress/10)
         4. CI/CD ![10%](https://geps.dev/progress/10)
             1. Jenkins ![10%](https://geps.dev/progress/10)
             2. GitLab CI/CD ![10%](https://geps.dev/progress/10)
