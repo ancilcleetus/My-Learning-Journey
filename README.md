@@ -154,7 +154,7 @@
             3. Microsoft Azure ![10%](https://geps.dev/progress/10)
     2. [Made With ML Course](MLOps/02-Made-With-ML-Course) ![10%](https://geps.dev/progress/10)
     3. [MLOps Projects](MLOps/03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
-        1. [HeadlineHound: End-to-End LLM News Classifier](MLOps/03-MLOps-Projects/MLOps_Project_01_HeadlineHound) ![10%](https://geps.dev/progress/10)
+        1. [HeadlineHound: End-to-End LLM-Powered News Headline Classifier](MLOps/03-MLOps-Projects/MLOps_Project_01_HeadlineHound) ![10%](https://geps.dev/progress/10)
 10. [Deep Learning](Deep-Learning) ![10%](https://geps.dev/progress/10)
     1. [Deep Learning Foundations](Deep-Learning/01-Deep-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Intro to Deep Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
