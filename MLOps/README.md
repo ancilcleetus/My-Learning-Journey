@@ -28,7 +28,7 @@
             1. Intro to ZenML ![10%](https://geps.dev/progress/10) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/MLOps/01-MLOps-Foundations/Experiment-Tracking/ZenML/Intro_to_ZenML.ipynb)
 2. [Made With ML Course](02-Made-With-ML-Course) ![10%](https://geps.dev/progress/10)
     1. [Toolkit](02-Made-With-ML-Course/Toolkit) ![10%](https://geps.dev/progress/10)
-        1. [Notebooks](02-Made-With-ML-Course/Toolkit/Notebooks.ipynb) ![10%](https://geps.dev/progress/10)
+        1. [Notebooks](02-Made-With-ML-Course/Toolkit/Notebooks.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Python](02-Made-With-ML-Course/Toolkit/Python.ipynb) ![10%](https://geps.dev/progress/10)
         3. [NumPy](02-Made-With-ML-Course/Toolkit/NumPy.ipynb) ![10%](https://geps.dev/progress/10)
         4. [Pandas](02-Made-With-ML-Course/Toolkit/Pandas.ipynb) ![10%](https://geps.dev/progress/10)

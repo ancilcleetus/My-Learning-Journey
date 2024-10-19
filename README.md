@@ -154,7 +154,7 @@
             3. Microsoft Azure ![10%](https://geps.dev/progress/10)
     2. [Made With ML Course](MLOps/02-Made-With-ML-Course) ![10%](https://geps.dev/progress/10)
         1. [Toolkit](MLOps/02-Made-With-ML-Course/Toolkit) ![10%](https://geps.dev/progress/10)
-            1. [Notebooks](MLOps/02-Made-With-ML-Course/Toolkit/Notebooks.ipynb) ![10%](https://geps.dev/progress/10)
+            1. [Notebooks](MLOps/02-Made-With-ML-Course/Toolkit/Notebooks.ipynb) ![100%](https://geps.dev/progress/100)
             2. [Python](MLOps/02-Made-With-ML-Course/Toolkit/Python.ipynb) ![10%](https://geps.dev/progress/10)
             3. [NumPy](MLOps/02-Made-With-ML-Course/Toolkit/NumPy.ipynb) ![10%](https://geps.dev/progress/10)
             4. [Pandas](MLOps/02-Made-With-ML-Course/Toolkit/Pandas.ipynb) ![10%](https://geps.dev/progress/10)
