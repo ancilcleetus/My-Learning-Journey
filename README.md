@@ -230,6 +230,7 @@
                 6. [Knowledge Graphs from Textual Data](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/03-Learning-How-to-Prompt/06_Knowledge_Graphs.ipynb) ![100%](https://geps.dev/progress/100)
             4. [Keeping Knowledge Organized with Indexes](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/04-Keeping-Knowledge-Organized-with-Indexes) ![10%](https://geps.dev/progress/10)
     2. [Generative AI Projects](Generative-AI/02-GenAI-Projects) ![10%](https://geps.dev/progress/10)
+        1. [FirstWordsLLM: LLM built from scratch](Generative-AI/02-GenAI-Projects/GenAI_Project_01_FirstWordsLLM) ![10%](https://geps.dev/progress/10)
 16. [Multimodal AI](Multimodal-AI) ![10%](https://geps.dev/progress/10)
     1. [Multimodal AI Foundations](Multimodal-AI/01-Multimodal-AI-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
