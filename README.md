@@ -159,7 +159,7 @@
             3. [NumPy](MLOps/02-Made-With-ML-Course/Toolkit/NumPy.ipynb) ![10%](https://geps.dev/progress/10)
             4. [Pandas](MLOps/02-Made-With-ML-Course/Toolkit/Pandas.ipynb) ![10%](https://geps.dev/progress/10)
             5. [PyTorch](MLOps/02-Made-With-ML-Course/Toolkit/PyTorch.ipynb) ![10%](https://geps.dev/progress/10)
-            6. [Utilities for Machine Learning](MLOps/02-Made-With-ML-Course/Toolkit/Utilities-for-ML.ipynb) ![10%](https://geps.dev/progress/10)
+            6. [Utilities for Machine Learning](MLOps/02-Made-With-ML-Course/Toolkit/Utilities_for_ML.ipynb) ![10%](https://geps.dev/progress/10)
     3. [MLOps Projects](MLOps/03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
         1. [HeadlineHound: End-to-End LLM-Powered News Headline Classifier](MLOps/03-MLOps-Projects/MLOps_Project_01_HeadlineHound) ![10%](https://geps.dev/progress/10)
 10. [Deep Learning](Deep-Learning) ![10%](https://geps.dev/progress/10)
