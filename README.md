@@ -136,6 +136,7 @@
             1. Jenkins ![10%](https://geps.dev/progress/10)
             2. GitLab CI/CD ![10%](https://geps.dev/progress/10)
             3. GitHub Actions ![10%](https://geps.dev/progress/10)
+            4. CircleCI ![10%](https://geps.dev/progress/10)
         5. Web API Frameworks ![10%](https://geps.dev/progress/10)
             1. FastAPI ![10%](https://geps.dev/progress/10)
             2. Django REST Framework (DRF) ![10%](https://geps.dev/progress/10)
