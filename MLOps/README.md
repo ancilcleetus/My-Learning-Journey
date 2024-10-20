@@ -35,7 +35,7 @@
         5. [PyTorch](02-Made-With-ML-Course/Toolkit/PyTorch.ipynb) ![10%](https://geps.dev/progress/10)
         6. [Utilities for Machine Learning](02-Made-With-ML-Course/Toolkit/Utilities_for_ML.ipynb) ![10%](https://geps.dev/progress/10)
 3. [MLOps Projects](03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
-    1. [HeadlineHound: End-to-End LLM News Classifier](03-MLOps-Projects/MLOps_Project_01_HeadlineHound) ![10%](https://geps.dev/progress/10)
+    1. [HeadlineHound: End-to-End LLM-Powered News Headline Classifier](03-MLOps-Projects/MLOps_Project_01_HeadlineHound) ![10%](https://geps.dev/progress/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
