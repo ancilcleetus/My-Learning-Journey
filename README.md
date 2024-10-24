@@ -215,7 +215,7 @@
     2. [Edge AI and TinyML - Projects](EdgeAI-TinyML/02-EdgeAI-TinyML-Projects) ![10%](https://geps.dev/progress/10)
 15. [Generative AI (GenAI)](Generative-AI) ![10%](https://geps.dev/progress/10)
     1. [Generative AI Foundations](Generative-AI/01-GenAI-Foundations) ![10%](https://geps.dev/progress/10)
-        1. [[Microsoft Generative AI For Beginners Course](https://microsoft.github.io/generative-ai-for-beginners)](Generative-AI/01-GenAI-Foundations/Microsoft-Generative-AI-For-Beginners-Course) ![10%](https://geps.dev/progress/10)
+        1. [Microsoft Generative AI For Beginners Course](https://microsoft.github.io/generative-ai-for-beginners) ![10%](https://geps.dev/progress/10)
         2. [Build a Large Language Model from Scratch](Generative-AI/01-GenAI-Foundations/Build-a-Large-Language-Model-from-Scratch) ![10%](https://geps.dev/progress/10)
         3. [LangChain & Vector Databases in Production Certification by Activeloop](https://learn.activeloop.ai/courses/langchain) ![10%](https://geps.dev/progress/10)
             1. [Intro](Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro) ![100%](https://geps.dev/progress/100)
