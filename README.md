@@ -93,6 +93,7 @@
         2. [PyTorch Computational Graphs](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries-Utilities/PyTorch/01-PyTorch-Foundations/PyTorch_02_Computational_Graphs.ipynb) ![10%](https://geps.dev/progress/10)
     11. [JAX](Tools-Libraries-Utilities/JAX) ![10%](https://geps.dev/progress/10)
     12. [Utilities](Tools-Libraries-Utilities/Utilities) ![10%](https://geps.dev/progress/10)
+        1. [Utilities for ML](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries-Utilities/Utilities/Utilities_for_ML.ipynb) ![10%](https://geps.dev/progress/10)
 8. [Databases](Databases) ![10%](https://geps.dev/progress/10)
 9. [Machine Learning](Machine-Learning) ![10%](https://geps.dev/progress/10)
     1. [Machine Learning Foundations](Machine-Learning/01-Machine-Learning-Foundations) ![10%](https://geps.dev/progress/10)
