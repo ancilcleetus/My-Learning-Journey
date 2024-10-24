@@ -13,8 +13,9 @@
 ## Status:
 
 1. [Generative AI Foundations](01-GenAI-Foundations) ![10%](https://geps.dev/progress/10)
-    1. [Build a Large Language Model from Scratch](01-GenAI-Foundations/Build-a-Large-Language-Model-from-Scratch) ![10%](https://geps.dev/progress/10)
-    2. [LangChain & Vector Databases in Production Certification by Activeloop](https://learn.activeloop.ai/courses/langchain) ![10%](https://geps.dev/progress/10)
+    1. [[Microsoft Generative AI For Beginners Course](https://microsoft.github.io/generative-ai-for-beginners)](01-GenAI-Foundations/Microsoft-Generative-AI-For-Beginners-Course) ![10%](https://geps.dev/progress/10)
+    2. [Build a Large Language Model from Scratch](01-GenAI-Foundations/Build-a-Large-Language-Model-from-Scratch) ![10%](https://geps.dev/progress/10)
+    3. [LangChain & Vector Databases in Production Certification by Activeloop](https://learn.activeloop.ai/courses/langchain) ![10%](https://geps.dev/progress/10)
         1. [Intro](01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro) ![100%](https://geps.dev/progress/100)
             1. LangChain 101 ![100%](https://geps.dev/progress/100) [![Open in GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat)](01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro/01_LangChain_101.ipynb) [![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro/01_LangChain_101.ipynb) [![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat)](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Generative-AI/01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/01-Intro/01_LangChain_101.ipynb)
         2. [Large Language Models and LangChain](01-GenAI-Foundations/LangChain-and-Vector-Databases-in-Production-Certification-by-Activeloop/02-Large-Language-Models-and-LangChain) ![100%](https://geps.dev/progress/100)
