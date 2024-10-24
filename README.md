@@ -95,12 +95,14 @@
     1. [Machine Learning Foundations](Machine-Learning/01-Machine-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Complete Machine Learning Course](Machine-Learning/01-Machine-Learning-Foundations/Complete-Machine-Learning-Course) ![10%](https://geps.dev/progress/10)
             1. [Python for Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Complete-Machine-Learning-Course/01_Python_for_Machine_Learning.ipynb) ![10%](https://geps.dev/progress/10)
-        2. [[Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course)](Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course) ![10%](https://geps.dev/progress/10)
+        2. [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) ![10%](https://geps.dev/progress/10)
             1. [Intro to Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
             2. [Supervised Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_02_Supervised_Learning.ipynb) ![100%](https://geps.dev/progress/100)
             3. [Linear Regression](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_03_Linear_Regression.ipynb) ![10%](https://geps.dev/progress/10)
             4. [Gradient Descent](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_04_Gradient_Descent.ipynb) ![10%](https://geps.dev/progress/10)
-        3. Topics to be covered
+        3. [Microsoft Data Science For Beginners Course](https://microsoft.github.io/Data-Science-For-Beginners) ![10%](https://geps.dev/progress/10)
+        4. [Microsoft ML For Beginners Course](https://microsoft.github.io/ML-For-Beginners) ![10%](https://geps.dev/progress/10)
+        5. Topics to be covered
             1. ML Algorithms ![10%](https://geps.dev/progress/10)
                 1. Supervised ML ![10%](https://geps.dev/progress/10)
                     - Linear Models ![10%](https://geps.dev/progress/10)
