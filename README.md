@@ -177,7 +177,7 @@
             3. [Multi-Layer Perceptrons](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_03_Multi_Layer_Perceptrons.ipynb) ![100%](https://geps.dev/progress/100)
             4. [Forward Propagation](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_04_Forward_Propagation.ipynb) ![100%](https://geps.dev/progress/100)
             5. [Loss Functions in Deep Learning](https://colab.research.google.com/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/01-Deep-Learning-Foundations/DL_05_Loss_Functions.ipynb) ![10%](https://geps.dev/progress/10)
-        2. [[Microsoft AI For Beginners Course](https://microsoft.github.io/AI-For-Beginners)](Deep-Learning/01-Deep-Learning-Foundations/Microsoft-AI-For-Beginners-Course) ![10%](https://geps.dev/progress/10)
+        2. [Microsoft AI For Beginners Course](https://microsoft.github.io/AI-For-Beginners) ![10%](https://geps.dev/progress/10)
     2. [Deep Learning Projects](Deep-Learning/02-Deep-Learning-Projects) ![10%](https://geps.dev/progress/10)
         1. [Customer Churn Prediction using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_01_Customer_Churn_Prediction_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Handwritten Digit Classification using ANN](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Deep-Learning/02-Deep-Learning-Projects/DL_Project_02_Handwritten_Digit_Classification_using_ANN.ipynb) ![100%](https://geps.dev/progress/100)
