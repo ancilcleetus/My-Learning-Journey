@@ -257,7 +257,7 @@
     2. [SSL - Projects](SSL/02-SSL-Projects) ![10%](https://geps.dev/progress/10)
 21. Autonomous & Cognitive Robotics ![10%](https://geps.dev/progress/10)
 22. Additional Maths ![10%](https://geps.dev/progress/10)
-23. Additional Tools and Libraries ![10%](https://geps.dev/progress/10)
+23. Additional Tools, Libraries and Utilities ![10%](https://geps.dev/progress/10)
 24. Additional Databases ![10%](https://geps.dev/progress/10)
 25. Additional Programming Languages ![10%](https://geps.dev/progress/10)
     1. Java ![10%](https://geps.dev/progress/10)
