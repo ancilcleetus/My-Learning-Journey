@@ -2,7 +2,7 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 3. MLOps
+## 4. MLOps
 
 | No | Utility | Utility Reference | Description | AI Domain | Comments |
 | -- | :------ | :---------------- | ----------- | --------- | :------- |
@@ -12,12 +12,20 @@
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 2. Traditional ML
+## 3. Traditional ML
 
 | No | Utility | Utility Reference | Description | AI Domain | Comments |
 | -- | :------ | :---------------- | ----------- | --------- | :------- |
 | 002 | [Step by Step Breakdown of Gradient Boosting Regularization by Timur Bikmukhametov](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries-Utilities/Utilities/Traditional-ML/Gradient-Boosting-Regularization-by-Timur-Bikmukhametov.pdf) | [Timur Bikmukhametov LinkedIn](https://www.linkedin.com/in/timurbikmukhametov/) | TBD | Traditional ML | TBD |
 | 001 | [Utilities for Traditional ML](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries-Utilities/Utilities/Traditional-ML/Utilities_for_Traditional_ML.ipynb) | [Utilities for Traditional ML](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Tools-Libraries-Utilities/Utilities/Traditional-ML/Utilities_for_Traditional_ML.ipynb) | Code Templates for Traditional ML | Traditional ML | $\textbf{\color{red}Adhere rigorously to the coding guidelines in all projects.}$ |
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## 2. Python
+
+| No | Utility | Utility Reference | Description | AI Domain | Comments |
+| -- | :------ | :---------------- | ----------- | --------- | :------- |
+| 001 | [futurecoder - Use IDE (or) Learn Python from scratch ](https://futurecoder.io/) | [futurecoder - Use IDE (or) Learn Python from scratch ](https://futurecoder.io/) | Use IDE with step by step simulation (or) Learn Python from scratch | Python | Check it out |
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
