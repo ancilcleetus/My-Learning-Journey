@@ -7,9 +7,10 @@
 1. [Bash (Bourne Again Shell)](Bash) ![10%](https://geps.dev/progress/10)
     1. [Bash Foundations](Bash/01-Bash-Foundations) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
-            2. [Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
-            3. [Learn Shell](https://www.learnshell.org/)
+            1. [Introduction to the UNIX Shell (Bash)](https://pabloinsente.github.io/intro-unix-shell)
+            2. [Bash Reference Manual](https://tiswww.case.edu/php/chet/bash/bashref.html)
+            3. [Bash Cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+            4. [Learn Shell](https://www.learnshell.org/)
     2. [Bash Projects](Bash/02-Bash-Projects) ![10%](https://geps.dev/progress/10)
 2. [Python](Python) ![10%](https://geps.dev/progress/10)
     1. [Python Foundations](Python/01-Python-Foundations) ![10%](https://geps.dev/progress/10)
@@ -23,6 +24,7 @@
     2. [Probability Theory](Maths/Probability-Theory) ![10%](https://geps.dev/progress/10)
     3. [Calculus](Maths/Calculus) ![10%](https://geps.dev/progress/10)
     4. [Linear Algebra](Maths/Linear-Algebra) ![10%](https://geps.dev/progress/10)
+        1. [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 4. [Data Structures and Algorithms (DSA)](Data-Structures-and-Algorithms) ![10%](https://geps.dev/progress/10)
     1. [DSA Foundations](Data-Structures-and-Algorithms/01-DSA-Foundations) ![10%](https://geps.dev/progress/10)
         1. [DSA Preparation for Interviews](Data-Structures-and-Algorithms/01-DSA-Foundations/DSA_01_Intro.md) ![100%](https://geps.dev/progress/100)
@@ -67,7 +69,8 @@
     1. [SQL](Tools-Libraries-Utilities/SQL) ![10%](https://geps.dev/progress/10)
     2. [NumPy](Tools-Libraries-Utilities/SQL) ![10%](https://geps.dev/progress/10)
         1. References
-            1. [NumPy Ultraquick Tutorial](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb)
+            1. [NumPy Fundamentals for Data Science and Machine Learning](https://pabloinsente.github.io/intro-numpy-fundamentals)
+            2. [NumPy Ultraquick Tutorial](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/numpy_ultraquick_tutorial.ipynb)
     3. [Pandas](Tools-Libraries-Utilities/Pandas) ![10%](https://geps.dev/progress/10)
         1. References
             1. [Pandas Ultraquick Tutorial](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/pandas_dataframe_ultraquick_tutorial.ipynb)
@@ -81,6 +84,7 @@
         4. References
             1. [Decision Tree to choose the most appropriate graph for your data](https://www.data-to-viz.com/#poster_full)
             2. [Beautiful Chart Examples](https://www.dataviz-inspiration.com/)
+            3. [Curated Python Notebooks for Amazing Data Visualization](https://github.com/javedali99/python-data-visualization)
     5. [Exploratory Data Analysis (EDA)](Tools-Libraries-Utilities/EDA) ![10%](https://geps.dev/progress/10)
     6. [OpenCV](Tools-Libraries-Utilities/OpenCV) ![10%](https://geps.dev/progress/10)
         1. References
@@ -154,6 +158,8 @@
             2. Django REST Framework (DRF) ![10%](https://geps.dev/progress/10)
         6. Containerization Platforms ![10%](https://geps.dev/progress/10)
             1. Docker ![10%](https://geps.dev/progress/10)
+                1. [Docker Tutorial for Beginners - TechWorld with Nana](https://www.youtube.com/watch?v=3c-iBn73dDE)
+                2. [Docker Tutorial For Beginners - Python Engineer](https://www.python-engineer.com/posts/docker-intro/)
             2. Kubernetes ![10%](https://geps.dev/progress/10)
         7. Monitoring ![10%](https://geps.dev/progress/10)
             1. Prometheus ![10%](https://geps.dev/progress/10)
