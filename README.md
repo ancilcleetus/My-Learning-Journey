@@ -102,7 +102,7 @@
 9. [Machine Learning](Machine-Learning) ![10%](https://geps.dev/progress/10)
     1. [Machine Learning Foundations](Machine-Learning/01-Machine-Learning-Foundations) ![10%](https://geps.dev/progress/10)
         1. [Ancil's Pathway to Machine Learning Mastery: Complete Machine Learning Course from Ground-Up to Greatness](Machine-Learning/01-Machine-Learning-Foundations/Complete-Machine-Learning-Course) ![10%](https://geps.dev/progress/10)
-            1. [Python for Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Complete-Machine-Learning-Course/01_Python_for_Machine_Learning.ipynb) ![10%](https://geps.dev/progress/10)
+            1. [Python for Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Complete-Machine-Learning-Course/01_Python_for_Machine_Learning.ipynb) ![100%](https://geps.dev/progress/100)
         2. [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) ![10%](https://geps.dev/progress/10)
             1. [Intro to Machine Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_01_Intro.ipynb) ![100%](https://geps.dev/progress/100)
             2. [Supervised Learning](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Machine-Learning/01-Machine-Learning-Foundations/Google-Machine-Learning-Crash-Course/ML_02_Supervised_Learning.ipynb) ![100%](https://geps.dev/progress/100)
