@@ -95,3 +95,5 @@
 [Python Linting Guide](https://www.jumpingrivers.com/blog/python-linting-guide/)
 
 [Best hosting platforms for Python applications and Python scripts](https://www.python-engineer.com/posts/hosting-platforms-for-python/)
+
+[Pandas Tutor makes step-by-step diagrams to show how Python pandas code transforms data](https://pandastutor.com/)
