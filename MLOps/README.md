@@ -29,7 +29,7 @@
 2. [MLOps Foundations](02-MLOps-Foundations) ![10%](https://geps.dev/progress/10)
     1. [Made With ML Course](02-MLOps-Foundations/01-Made-With-ML-Course) ![10%](https://geps.dev/progress/10)
 3. [MLOps Projects](03-MLOps-Projects) ![10%](https://geps.dev/progress/10)
-    1. [DanishGridInsight: End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark](03-MLOps-Projects/MLOps_Project_01_DanishGridInsight) ![10%](https://geps.dev/progress/10)
+    1. [DanishGridInsight: End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark using MLOps Best Practices](03-MLOps-Projects/MLOps_Project_01_DanishGridInsight) ![10%](https://geps.dev/progress/10)
     2. [HeadlineHound: End-to-End Production Ready LLM-Powered News Headline Classifier](03-MLOps-Projects/MLOps_Project_02_HeadlineHound) ![10%](https://geps.dev/progress/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)

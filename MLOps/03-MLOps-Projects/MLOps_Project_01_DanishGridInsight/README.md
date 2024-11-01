@@ -1,4 +1,4 @@
-# DanishGridInsight: End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark
+# DanishGridInsight: End-to-End Production-Ready ML System for forecasting Hourly Energy Consumption Levels across Denmark using MLOps Best Practices
 
 # ![DanishGridInsight](data/animations/MLOps_Project_01_DanishGridInsight-01.gif)
 
