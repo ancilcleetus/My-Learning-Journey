@@ -47,6 +47,7 @@ https://aila.facebookblueprint.com/
 https://pair.withgoogle.com/
 https://www.visual-layer.com/
 https://jenni.ai/
+https://unstuckstudy.com/
 https://docusaurus.io/
 https://github.com/topics/mlops
 https://ethicalml.github.io/awesome-production-machine-learning/
