@@ -26,6 +26,7 @@ https://hu-po.github.io/
 ## 3. My Learning Journey Step-01
 
 https://learnwith.campusx.in/
+https://www.nlpdemystified.org/
 https://aman.ai/
 [Strivers A2Z DSA Course](https://takeuforward.org/)
 https://neetcode.io/practice
