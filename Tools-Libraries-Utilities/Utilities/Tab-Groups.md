@@ -26,6 +26,7 @@ https://hu-po.github.io/
 ## 3. My Learning Journey Step-01
 
 https://learnwith.campusx.in/
+https://gpttutorpro.com/
 https://www.nlpdemystified.org/
 https://aman.ai/
 [Strivers A2Z DSA Course](https://takeuforward.org/)
@@ -40,6 +41,7 @@ https://microsoft.github.io/AI-For-Beginners/
 https://microsoft.github.io/generative-ai-for-beginners
 https://aila.facebookblueprint.com/
 [DATAtab Statistics - A Full Lecture to learn Data Science](https://www.youtube.com/watch?v=Ym1iH8-GQOE)
+[Add content to "Computer Vision" under My-Learning-Journey Repo](https://www.run.ai/guides/deep-learning-for-computer-vision)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -60,6 +62,8 @@ https://lightning.ai/
 https://github.com/Lightning-AI/LitServe
 https://dagshub.com/
 https://github.com/pola-rs/polars
+http://simplecv.org/
+https://boofcv.org
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -124,6 +128,9 @@ https://www.neuralnet.ai/
 https://umarjamil.org/
 https://www.scaler.com/topics/courses/
 https://www.scaler.com/topics/challenges/
+https://dl4cv-nptel.github.io/DL4CVBK/intro.html
+https://medium.com/@Coursesteach/lists
+https://github.com/a00ayad00/Machine-Learning-and-Data-Science-Resourses
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
