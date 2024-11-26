@@ -26,7 +26,6 @@ https://hu-po.github.io/
 ## 3. My Learning Journey Step-01
 
 https://learnwith.campusx.in/
-https://gpttutorpro.com/
 https://www.nlpdemystified.org/
 https://aman.ai/
 [Strivers A2Z DSA Course](https://takeuforward.org/)
@@ -93,6 +92,7 @@ https://learn.deeplearning.ai/
 https://github.com/Avik-Jain/100-Days-Of-ML-Code/
 https://datatalks.club
 https://huyenchip.com/machine-learning-systems-design/toc.html
+https://learn.theaiedge.io/courses
 https://fpcv.cs.columbia.edu/
 https://deep-learning-drizzle.github.io/
 https://github.com/dair-ai/
