@@ -103,6 +103,7 @@ https://ludwigstumpp.com/
 https://pjreddie.com/courses/computer-vision/
 https://ml-course.github.io/master/intro.html
 https://nyandwi.com/resources.html
+[Blog by Sovit Ranjan Rath - Lead CV Engineer @ OpenCV University](https://debuggercafe.com/posts/)
 https://github.com/dkqp/DL_Paper_Replicating
 https://dagshub.com/blog/tag/tutorials/
 https://github.com/Machine-Learning-Tokyo
