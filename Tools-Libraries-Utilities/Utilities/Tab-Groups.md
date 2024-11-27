@@ -73,6 +73,7 @@ https://medium.com/decodingml/llm-twin-course/home
 https://www.llm360.ai/
 https://www.philschmid.de/
 https://github.com/Joao-M-Silva/padel_analytics
+[Building a Vision Inspection CNN for an Industrial Application](https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
