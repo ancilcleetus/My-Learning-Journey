@@ -20,6 +20,8 @@ https://nn.labml.ai/
 https://github.com/dair-ai/ML-Papers-Explained
 https://www.youtube.com/playlist?list=PLwq2F0NejwX5pLkDH0wxW9om0oacO-Le2
 https://hu-po.github.io/
+[SAMURAI: Transforming Real-Time Visual Object Tracking with Zero-Shot Accuracy and Motion-Aware Memory](https://yangchris11.github.io/samurai/)
+[Sapiens from Meta: Foundation for Human Vision Models](https://about.meta.com/realitylabs/codecavatars/sapiens/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
