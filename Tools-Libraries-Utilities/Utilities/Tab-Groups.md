@@ -24,6 +24,9 @@ https://hu-po.github.io/
 [Sapiens from Meta: Foundation for Human Vision Models](https://about.meta.com/realitylabs/codecavatars/sapiens/)
 [Multimodal LLM Tutorial Series on CVPR 2024](https://mllm2024.github.io/CVPR2024/)
 [VisionLLM v2: A Generalist Multimodal Large Language Model for Hundeds of Vision-Language Tasks](https://github.com/OpenGVLab/VisionLLM)
+[Multimodal Medical AI - Google Research](https://research.google/blog/multimodal-medical-ai/)
+[Twelve Labs Research](https://www.twelvelabs.io/research)
+[vLLM: UC Berkeley’s Open Source Framework for Super Fast and Chearp LLM Serving](https://github.com/vllm-project/vllm)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -81,6 +84,7 @@ https://www.llm360.ai/
 https://www.philschmid.de/
 https://github.com/Joao-M-Silva/padel_analytics
 [Building a Vision Inspection CNN for an Industrial Application](https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a)
+[Twelve Labs Projects](https://www.twelvelabs.io/blog-categories/tutorial)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
