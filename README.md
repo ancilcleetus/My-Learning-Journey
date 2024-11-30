@@ -254,7 +254,7 @@
         1. References
             1. [Multi-Modal Machine Learning Course](https://cmu-multicomp-lab.github.io/mmml-course/)
     2. [Multimodal AI Projects](Multimodal-AI/02-Multimodal-AI-Projects) ![10%](https://geps.dev/progress/10)
-        1. [NeuraVisionLLM: Multimodal Vision LLM built from Scratch](Multimodal-AI/02-Multimodal-AI-Projects/Multimodal_AI_Project_01_NeuraVisionLLM) ![10%](https://geps.dev/progress/10)
+        1. [NeuraVisionLLM: Multimodal Vision LLM built from Scratch](https://github.com/ancilcleetus/Multimodal_AI_Project_01_NeuraVisionLLM) ![10%](https://geps.dev/progress/10)
 18. [AI Agents](AI-Agents) ![10%](https://geps.dev/progress/10)
     1. [AI Agents - Foundations](AI-Agents/01-AI-Agents-Foundations) ![10%](https://geps.dev/progress/10)
     2. [AI Agents - Projects](AI-Agents/02-AI-Agents-Projects) ![10%](https://geps.dev/progress/10)
