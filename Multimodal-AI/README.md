@@ -13,6 +13,6 @@
 ## Status:
 
 1. [Multimodal AI Foundations](01-Multimodal-AI-Foundations) ![10%](https://geps.dev/progress/10)
-2. [Generative AI Projects](02-Multimodal-AI-Projects) ![10%](https://geps.dev/progress/10)
+2. [Multimodal AI Projects](02-Multimodal-AI-Projects) ![10%](https://geps.dev/progress/10)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
