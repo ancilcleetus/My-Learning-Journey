@@ -2,6 +2,8 @@
 
 # ![Generative AI](data/animations/GenAI-01.gif)
 
+# ![Generative AI](data/animations/GenAI-02.gif)
+
 > **`Note 1`**: Use ![Open in nbviewer](https://img.shields.io/badge/Jupyter%20nbviewer-F37626?logo=jupyter&logoColor=white&style=flat) (recommended) in order to view the jupyter notebooks (nbviewer loads the notebook really fast compared to GitHub). You can see all the codes and the outputs in nbviwer without running the whole code again.
 
 > **`Note 2`**: If you want to edit the notebooks and rerun cells, open notebooks in ![Open in Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat).
