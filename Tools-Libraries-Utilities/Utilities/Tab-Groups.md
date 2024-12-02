@@ -13,13 +13,14 @@ https://nupurkmr9.github.io/
 
 ## 2. Cutting Edge AI Research
 
-https://aman.ai/papers/
-https://research.nvidia.com/labs/adlr/
-https://research.nvidia.com/labs/adlr/NVLM-1/
-https://nn.labml.ai/
-https://github.com/dair-ai/ML-Papers-Explained
-https://www.youtube.com/playlist?list=PLwq2F0NejwX5pLkDH0wxW9om0oacO-Le2
-https://hu-po.github.io/
+[Aman Chadha - Distilled AI Papers List](https://aman.ai/papers/)
+[NVIDIA Applied Deep Learning Research](https://research.nvidia.com/labs/adlr/)
+[NVLM: Open Frontier-Class Multimodal LLMs](https://research.nvidia.com/labs/adlr/NVLM-1/)
+[NVIDIA Multimodal PDF Data Extraction](https://build.nvidia.com/nvidia/multimodal-pdf-data-extraction-for-enterprise-rag)
+[Annotated Research Paper Implementations](https://nn.labml.ai/)
+[DAIR.AI - ML Papers Explained](https://github.com/dair-ai/ML-Papers-Explained)
+[Paper Study by Hugo Ponte](https://www.youtube.com/playlist?list=PLwq2F0NejwX5pLkDH0wxW9om0oacO-Le2)
+[Hugo Ponte](https://hu-po.github.io/)
 [SAMURAI: Transforming Real-Time Visual Object Tracking with Zero-Shot Accuracy and Motion-Aware Memory](https://yangchris11.github.io/samurai/)
 [Sapiens from Meta: Foundation for Human Vision Models](https://about.meta.com/realitylabs/codecavatars/sapiens/)
 [Multimodal LLM Tutorial Series on CVPR 2024](https://mllm2024.github.io/CVPR2024/)
@@ -32,15 +33,15 @@ https://hu-po.github.io/
 
 ## 3. My Learning Journey Step-01
 
-https://learnwith.campusx.in/
-https://www.nlpdemystified.org/
-https://aman.ai/
+[CampusX](https://learnwith.campusx.in/)
+[Natural Language Processing Demystified - Complete NLP Course](https://www.nlpdemystified.org/)
+[Aman Chadha - Distilled AI Courses](https://aman.ai/)
 [Intro to Deep Learning and Generative Models Course by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 [Strivers A2Z DSA Course](https://takeuforward.org/)
-https://neetcode.io/practice
-https://algo.monster/
-https://bytebytego.com/
-https://devinterview.io/
+[NeetCode DSA Course](https://neetcode.io/practice)
+[AlgoMonster DSA Course](https://algo.monster/)
+[ByteByteGo High Level Design Courses](https://bytebytego.com/)
+[devinterview - Ace your next tech interview with confidence](https://devinterview.io/)
 https://developers.google.com/machine-learning
 https://microsoft.github.io/Data-Science-For-Beginners/
 https://microsoft.github.io/ML-For-Beginners/
