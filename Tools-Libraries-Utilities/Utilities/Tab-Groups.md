@@ -75,10 +75,17 @@ https://github.com/pola-rs/polars
 http://simplecv.org/
 https://boofcv.org
 https://github.com/jacobgil/pytorch-grad-cam
+[Google's Responsible Generative AI Toolkit](https://ai.google.dev/responsible)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 5. Interesting Projects
+## 5. General Purpose Toolkit
+
+[NoteGPT - YouTube Video Summarizer, PDF Summary, PPT Summary, Image Summaries, and more.](https://notegpt.io/)
+
+![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
+
+## 6. Interesting Projects
 
 https://jonbarron.info/
 https://medium.com/decodingml/llm-twin-course/home
@@ -90,7 +97,7 @@ https://github.com/Joao-M-Silva/padel_analytics
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 6. Professional Insights
+## 7. Professional Insights
 
 https://www.infoq.com/presentations/
 https://understandlegacycode.com/blog/key-points-of-working-effectively-with-legacy-code/
@@ -98,7 +105,7 @@ https://www.databricks.com/resources/
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 7. My Learning Journey Step-02
+## 8. My Learning Journey Step-02
 
 https://fullstackdeeplearning.com/
 https://cognitiveclass.ai/
@@ -149,7 +156,7 @@ https://github.com/a00ayad00/Machine-Learning-and-Data-Science-Resourses
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 8. Work Related Wisdom
+## 9. Work Related Wisdom
 
 https://medium.com/@thedavescience/use-this-simple-trick-to-consistently-conquer-your-fears-de0d2c6f7520
 https://medium.com/@thedavescience/1-tip-i-would-give-someone-who-wanted-to-get-started-working-in-data-science-a8b91cfeab6d
@@ -158,7 +165,7 @@ https://medium.com/@thedavescience/an-easy-framework-for-learning-more-data-scie
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
-## 9. Miscellaneous
+## 10. Miscellaneous
 
 [The Full Stack 7-Steps MLOps Framework - Build End-to-End MLOps Project](https://www.pauliusztin.me/courses/the-full-stack-7-steps-mlops-framework)
 
