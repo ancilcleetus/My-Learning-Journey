@@ -76,6 +76,7 @@ http://simplecv.org/
 https://boofcv.org
 https://github.com/jacobgil/pytorch-grad-cam
 [Google's Responsible Generative AI Toolkit](https://ai.google.dev/responsible)
+[Effortless conversions from English to RegEx](https://www.autoregex.xyz/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -171,7 +172,16 @@ https://medium.com/@thedavescience/an-easy-framework-for-learning-more-data-scie
 
 [Real-time Financial Advisor using LLMs - Build End-to-End LLMOps Project](https://www.pauliusztin.me/courses/handson-llms)
 
+[Practical NLP - Text Preprocessing with PyTorch](https://colab.research.google.com/drive/1bzsrHB3AlP78Uymw2PO5O3ip3ltvSow-?usp=sharing)
+[Practical NLP - how to fine-tune pre-trained transformer models like BERT, DistilBERT, GPT on your custom datasets using PyTorch and Hugging Face’s Transformers library](https://colab.research.google.com/drive/1GAb1lVsgiA-UOyNyKbKRyBsa06-Qzwdf?usp=sharing)
+
+[Positional Encoding - Zero to Hero](https://huggingface.co/blog/designing-positional-encoding)
+
+[Welcome PaliGemma 2 – New vision language models by Google](https://huggingface.co/blog/paligemma2)
+
 [Git Course](https://missing.csail.mit.edu/)
+
+[AWS 100 Days Challenge YT Playlist](https://youtube.com/playlist?list=PL_Dk6MPQLXEdSie2fNG9tFVk5CnlrE9DP&feature=shared)
 
 [The McCulloch-Pitts Artificial Neuron Model - Theory and Implementation](https://pabloinsente.github.io/the-mcculloch-pitts-artificial-neuron-model)
 
