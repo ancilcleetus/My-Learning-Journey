@@ -53,7 +53,7 @@ https://aila.facebookblueprint.com/
 [Add content to "Computer Vision" under My-Learning-Journey Repo](https://www.run.ai/guides/deep-learning-for-computer-vision)
 [Shervine Amidi - VIP Cheatsheets for CME 102 ― Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/)
 [Shervine Amidi - VIP Cheatsheets for CME 106 ― Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/)
-[](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+[Shervine Amidi - Data Science Tools](https://www.mit.edu/~amidi/teaching/data-science-tools/)
 [Shervine Amidi - VIP Cheatsheets for CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
 [Shervine Amidi - VIP Cheatsheets for CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
 [Shervine Amidi - The evolution of image classification explained](https://stanford.edu/~shervine/blog/evolution-image-classification-explained)
