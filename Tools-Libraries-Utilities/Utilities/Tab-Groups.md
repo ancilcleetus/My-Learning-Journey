@@ -87,6 +87,7 @@ https://boofcv.org
 https://github.com/jacobgil/pytorch-grad-cam
 [Google's Responsible Generative AI Toolkit](https://ai.google.dev/responsible)
 [Effortless conversions from English to RegEx](https://www.autoregex.xyz/)
+[AI-powered Git commit message generator using Groq API](https://github.com/PraNavKumAr01/easy_commit)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
