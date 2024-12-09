@@ -51,6 +51,16 @@ https://microsoft.github.io/generative-ai-for-beginners
 https://aila.facebookblueprint.com/
 [DATAtab Statistics - A Full Lecture to learn Data Science](https://www.youtube.com/watch?v=Ym1iH8-GQOE)
 [Add content to "Computer Vision" under My-Learning-Journey Repo](https://www.run.ai/guides/deep-learning-for-computer-vision)
+[Shervine Amidi - VIP Cheatsheets for CME 102 ― Ordinary Differential Equations for Engineers](https://stanford.edu/~shervine/teaching/cme-102/)
+[Shervine Amidi - VIP Cheatsheets for CME 106 ― Introduction to Probability and Statistics for Engineers](https://stanford.edu/~shervine/teaching/cme-106/)
+[](https://www.mit.edu/~amidi/teaching/data-science-tools/)
+[Shervine Amidi - VIP Cheatsheets for CS 229 ― Machine Learning](https://stanford.edu/~shervine/teaching/cs-229/)
+[Shervine Amidi - VIP Cheatsheets for CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230/)
+[Shervine Amidi - The evolution of image classification explained](https://stanford.edu/~shervine/blog/evolution-image-classification-explained)
+[Shervine Amidi - A detailed example of how to generate your data in parallel with PyTorch](https://stanford.edu/~shervine/blog/pytorch-how-to-generate-data-parallel)
+[Shervine Amidi - A detailed example of how to use data generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly)
+[Shervine Amidi - Super Study Guide - Algorithms & Data Structures](https://superstudy.guide/algorithms-data-structures/)
+[Shervine Amidi - Super Study Guide - Transformers & Large Language Models](https://superstudy.guide/transformers-large-language-models/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
