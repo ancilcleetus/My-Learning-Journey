@@ -35,7 +35,7 @@ https://nupurkmr9.github.io/
 
 [CampusX](https://learnwith.campusx.in/)
 [Natural Language Processing Demystified - Complete NLP Course](https://www.nlpdemystified.org/)
-[Aman Chadha - Distilled AI Courses](https://aman.ai/)
+[Aman Chadha - Distilled AI Course Notes, Primers, Research Papers List, Read List, Watch List](https://aman.ai/)
 [Intro to Deep Learning and Generative Models Course by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 [Neuromatch Deep Learning - DL, CV, NLP, GenAI, Unsupervised Learning, RL etc](https://deeplearning.neuromatch.io/)
 [Strivers A2Z DSA Course](https://takeuforward.org/)
