@@ -289,7 +289,7 @@ https://medium.com/@thedavescience/an-easy-framework-for-learning-more-data-scie
 
 [Google Research - multimodal-medical-ai](https://research.google/blog/multimodal-medical-ai/)
 
-[TwelveLabs - ]()
+[Anil Ananthaswamy - The Elegant Math Behind Machine Learning](https://www.youtube.com/watch?v=URtF_UHYBSo)
 
 [TwelveLabs - ]()
 
