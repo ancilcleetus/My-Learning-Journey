@@ -28,6 +28,7 @@ https://nupurkmr9.github.io/
 [Multimodal Medical AI - Google Research](https://research.google/blog/multimodal-medical-ai/)
 [Twelve Labs Research](https://www.twelvelabs.io/research)
 [vLLM: UC Berkeley’s Open Source Framework for Super Fast and Chearp LLM Serving](https://github.com/vllm-project/vllm)
+[Genesis: A Generative and Universal Physics Engine for Robotics and Beyond](https://genesis-embodied-ai.github.io/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -35,6 +36,7 @@ https://nupurkmr9.github.io/
 
 [CampusX](https://learnwith.campusx.in/)
 [Natural Language Processing Demystified - Complete NLP Course](https://www.nlpdemystified.org/)
+[NLP Course by Lena Voita](https://lena-voita.github.io/nlp_course.html)
 [Aman Chadha - Distilled AI Course Notes, Primers, Research Papers List, Read List, Watch List](https://aman.ai/)
 [Intro to Deep Learning and Generative Models Course by Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
 [Neuromatch Deep Learning - DL, CV, NLP, GenAI, Unsupervised Learning, RL etc](https://deeplearning.neuromatch.io/)
@@ -88,6 +90,7 @@ https://github.com/jacobgil/pytorch-grad-cam
 [Google's Responsible Generative AI Toolkit](https://ai.google.dev/responsible)
 [Effortless conversions from English to RegEx](https://www.autoregex.xyz/)
 [AI-powered Git commit message generator using Groq API](https://github.com/PraNavKumAr01/easy_commit)
+[Consensus: AI-powered Academic Search Engine](https://consensus.app/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -106,6 +109,7 @@ https://www.philschmid.de/
 https://github.com/Joao-M-Silva/padel_analytics
 [Building a Vision Inspection CNN for an Industrial Application](https://towardsdatascience.com/building-a-vision-inspection-cnn-for-an-industrial-application-138936d7a34a)
 [Twelve Labs Projects](https://www.twelvelabs.io/blog-categories/tutorial)
+[Stree Shield](https://github.com/Spirizeon/streeshield)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -165,6 +169,16 @@ https://www.scaler.com/topics/challenges/
 https://dl4cv-nptel.github.io/DL4CVBK/intro.html
 https://medium.com/@Coursesteach/lists
 https://github.com/a00ayad00/Machine-Learning-and-Data-Science-Resourses
+[Self Supervised Models](https://self-supervised.cs.jhu.edu/fa2022/)
+[IIT Delhi - LLMs Playlist](https://youtube.com/playlist?list=PLqGkIjcOyrGnjyBHl4GE2S9kX47X96FH-&si=eJSyeXQK5-N4_IKX)
+[Energy Based Models - ](https://www.moneycontrol.com/technology/a-four-year-old-has-seen-more-data-than-an-llm-ai-pioneer-yann-lecun-article-12848155.html)
+[Energy Based Models - ](https://mathpicture.fas.harvard.edu/event/online-seminar-yann-lecun-facebook-and-new-york-university-energy-based-learning)
+[Energy Based Models - ](https://www.math.harvard.edu/event/2024-ding-shum-lecture-yann-lecun/)
+[Energy Based Models - ](https://uvadlc.github.io/)
+[Energy Based Models - ](https://deepgenerativemodels.github.io/)
+[Energy Based Models - ](https://cds.nyu.edu/open-education/)
+[Energy Based Models - ](https://atcold.github.io/NYU-DLSP20/)
+[Energy Based Models - ](https://atcold.github.io/NYU-DLSP21/)
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
 
@@ -183,7 +197,14 @@ https://medium.com/@thedavescience/an-easy-framework-for-learning-more-data-scie
 
 [Real-time Financial Advisor using LLMs - Build End-to-End LLMOps Project](https://www.pauliusztin.me/courses/handson-llms)
 
+[Andreas Stoffelbauer - How Large Language Models work - From Zero to ChatGPT](https://medium.com/data-science-at-microsoft/how-large-language-models-work-91c362f5b78f)
+
+[Andreas Stoffelbauer - TensorFlow vs PyTorch for Deep Learning](https://towardsdatascience.com/pytorch-vs-tensorflow-in-code-ada936fd5406)
+
+[Andreas Stoffelbauer - Understanding Generalization, Regularization, Overfitting, Bias, and Variance in Machine Learning](https://towardsdatascience.com/generalization-regularization-overfitting-bias-and-variance-in-machine-learning-aa942886b870)
+
 [Practical NLP - Text Preprocessing with PyTorch](https://colab.research.google.com/drive/1bzsrHB3AlP78Uymw2PO5O3ip3ltvSow-?usp=sharing)
+
 [Practical NLP - how to fine-tune pre-trained transformer models like BERT, DistilBERT, GPT on your custom datasets using PyTorch and Hugging Face’s Transformers library](https://colab.research.google.com/drive/1GAb1lVsgiA-UOyNyKbKRyBsa06-Qzwdf?usp=sharing)
 
 [Positional Encoding - Zero to Hero](https://huggingface.co/blog/designing-positional-encoding)
@@ -247,5 +268,29 @@ https://medium.com/@thedavescience/an-easy-framework-for-learning-more-data-scie
 [Best hosting platforms for Python applications and Python scripts](https://www.python-engineer.com/posts/hosting-platforms-for-python/)
 
 [Pandas Tutor makes step-by-step diagrams to show how Python pandas code transforms data](https://pandastutor.com/)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/foundation-models-are-going-multimodal)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/the-past-present-and-future-of-video-understanding-applications)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/what-makes-foundation-models-special)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/what-is-multimodal-ai)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/multimodal-embeddings)
+
+[TwelveLabs - ](https://www.twelvelabs.io/blog/a-tour-of-video-understanding-use-cases)
+
+[Sebastian Raschka - understanding-multimodal-llms](https://sebastianraschka.com/blog/2024/understanding-multimodal-llms.html)
+
+[tenyks - multimodal-large-language-models-mllms-transforming-computer-vision](https://www.tenyks.ai/blog/multimodal-large-language-models-mllms-transforming-computer-vision)
+
+[an-introduction-to-vlms-the-future-of-computer-vision-models](https://towardsdatascience.com/an-introduction-to-vlms-the-future-of-computer-vision-models-5f5aeaafb282)
+
+[Google Research - multimodal-medical-ai](https://research.google/blog/multimodal-medical-ai/)
+
+[TwelveLabs - ]()
+
+[TwelveLabs - ]()
 
 ![rainbow](https://github.com/ancilcleetus/My-Learning-Journey/assets/25684256/839c3524-2a1d-4779-85a0-83c562e1e5e5)
