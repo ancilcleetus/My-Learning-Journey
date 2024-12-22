@@ -45,6 +45,7 @@ https://nupurkmr9.github.io/
 [AlgoMonster DSA Course](https://algo.monster/)
 [ByteByteGo High Level Design Courses](https://bytebytego.com/)
 [devinterview - Ace your next tech interview with confidence](https://devinterview.io/)
+[Interview Query](https://www.interviewquery.com/)
 https://developers.google.com/machine-learning
 https://microsoft.github.io/Data-Science-For-Beginners/
 https://microsoft.github.io/ML-For-Beginners/
