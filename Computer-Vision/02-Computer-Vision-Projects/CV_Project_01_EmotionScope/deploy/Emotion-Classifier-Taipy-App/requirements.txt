@@ -1,7 +1,0 @@
-tensorflow
-keras
-numpy
-matplotlib
-opencv-python
-taipy
-taipy-gui

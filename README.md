@@ -209,7 +209,7 @@
         14. [Intro to CTC (Connectionist Temporal Classification)](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/01-Computer-Vision-Foundations/CV_A4_Intro_to_CTC.ipynb) ![10%](https://geps.dev/progress/10)
         15. [Text Recognition With CRNN-CTC Network](https://nbviewer.org/github/ancilcleetus/My-Learning-Journey/blob/main/Computer-Vision/01-Computer-Vision-Foundations/CV_A5_Text_Recognition_with_CRNN_CTC_Network.ipynb) ![10%](https://geps.dev/progress/10)
     2. [Computer Vision Projects](Computer-Vision/02-Computer-Vision-Projects) ![10%](https://geps.dev/progress/10)
-        1. [EmotionScope: Emotion Classifier using Keras](Computer-Vision/02-Computer-Vision-Projects/CV_Project_01_EmotionScope) ![100%](https://geps.dev/progress/100)
+        1. [EmotionScope: Emotion Classifier using Keras](https://github.com/ancilcleetus/CV_Project_01_EmotionScope) ![100%](https://geps.dev/progress/100)
 13. [Natural Language Processing (NLP)](NLP) ![10%](https://geps.dev/progress/10)
     1. [NLP Foundations](NLP/01-NLP-Foundations) ![10%](https://geps.dev/progress/10)
     2. [NLP Projects](NLP/02-NLP-Projects) ![10%](https://geps.dev/progress/10)
