@@ -124,6 +124,7 @@ https://www.databricks.com/resources/
 
 ## 8. My Learning Journey Step-02
 
+https://www.brandonrohrer.com/blog.html
 https://ml-resources.vercel.app/
 https://fullstackdeeplearning.com/
 https://cognitiveclass.ai/
